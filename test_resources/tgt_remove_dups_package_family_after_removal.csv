@@ -1,0 +1,937 @@
+Platform,Package Name,Package Version,Package_Family,License,License URL
+UI,abab,2.0.6,btoa,BSD 3.0,https://github.com/jsdom/abab#readme/blob/master/LICENSE
+UI,abbrev,1.1.1,abbrev,ISC,https://github.com/npm/abbrev-js#readme/blob/master/LICENSE
+UI,abort-controller,3.0.0,whatwg,MIT,https://github.com/mysticatea/abort-controller#readme/blob/master/LICENSE
+UI,accepts,1.3.8,negotiation,MIT,https://github.com/jshttp/accepts#readme/blob/master/LICENSE
+UI,acorn,8.8.1,acorn,MIT,https://github.com/acornjs/acorn/blob/master/LICENSE
+UI,acorn-globals,6.0.0,variable,MIT,https://github.com/ForbesLindesay/acorn-globals#readme/blob/master/LICENSE
+UI,acorn-node,1.8.2,browserify,Apache 2.0,https://github.com/browserify/acorn-node/blob/master/LICENSE
+UI,address,1.2.2,ip,MIT,https://github.com/node-modules/address#readme/blob/master/LICENSE
+UI,adjust-sourcemap-loader,4.0.0,loader,MIT,https://github.com/bholloway/adjust-sourcemap-loader/blob/master/LICENSE
+UI,adobe/css-tools,4.0.1,parser,MIT,https://github.com/adobe/css-tools#readme/blob/master/LICENSE
+UI,agent-base,6.0.2,agent,MIT,https://github.com/TooTallNate/proxy-agents#readme/blob/master/LICENSE
+UI,agentkeepalive,4.2.1,https,MIT,https://github.com/node-modules/agentkeepalive#readme/blob/master/LICENSE
+UI,aggregate-error,3.1.0,error,MIT,https://github.com/sindresorhus/aggregate-error#readme/blob/master/LICENSE
+UI,ajv,8.12.0,schema,MIT,https://github.com/ajv/ajv/blob/master/LICENSE
+UI,ajv-errors,1.0.1,json,MIT,https://github.com/epoberezkin/ajv-errors#readme/blob/master/LICENSE
+UI,ajv-formats,2.1.1,JSON,MIT,https://github.com/ajv-validator/ajv-formats#readme/blob/master/LICENSE
+UI,ajv-keywords,5.1.0,ajv,MIT,https://github.com/epoberezkin/ajv-keywords#readme/blob/master/LICENSE
+UI,alphanum-sort,1.0.2,alphanum,MIT,https://github.com/TrySound/alphanum-sort/blob/master/LICENSE
+UI,amdefine,1.0.1,amdefine,BSD 3.0,http://github.com/jrburke/amdefine/blob/master/LICENSE
+UI,ampproject/remapping,2.2.0,map,Apache 2.0,https://github.com/ampproject/remapping#readme/blob/master/LICENSE
+UI,animate.css,4.1.1,animate.css,MIT,https://github.com/animate/animate/blob/master/LICENSE
+UI,animejs,3.2.1,animation,MIT,https://github.com/animejs/animejs/blob/master/LICENSE
+UI,anser,2.0.1,html,MIT,https://github.com/IonicaBizau/anser#readme/blob/master/LICENSE
+UI,ansi-align,3.0.0,align,ISC,https://github.com/nexdrew/ansi-align#readme/blob/master/LICENSE
+UI,ansi-colors,3.2.4,ansi,MIT,https://github.com/doowb/ansi-colors/blob/master/LICENSE
+UI,ansi-escapes,4.3.2,terminal,MIT,https://github.com/sindresorhus/ansi-escapes#readme/blob/master/LICENSE
+UI,ansi-regex,6.0.1,styles,MIT,https://github.com/chalk/ansi-regex#readme/blob/master/LICENSE
+UI,antd,5.1.2,component,MIT,https://github.com/ant/ant/blob/master/LICENSE
+UI,ant-design/colors,6.0.0,colors,MIT,https://github.com/ant-design/ant-design-colors#readme/blob/master/LICENSE
+UI,ant-design/cssinjs,1.4.0,cssinjs,MIT,https://github.com/ant-design/cssinjs/blob/master/LICENSE
+UI,ant-design/icons,4.8.0,icons,MIT,https://github.com/ant-design/ant-design-icons/tree/master#readme/blob/master/LICENSE
+UI,ant-design/react-slick,1.0.0,carousel,MIT,https://github.com/react-slick/react-slick/blob/master/LICENSE
+UI,any-base,1.1.0,convert,MIT,https://github.com/HarasimowiczKamil/any-base#readme/blob/master/LICENSE
+UI,anymatch,3.1.3,any,ISC,https://github.com/micromatch/anymatch/blob/master/LICENSE
+UI,apollo/client,3.3.21,graphql,MIT,https://github.com/www/www/blob/master/LICENSE
+UI,apollo-link,1.2.14,apollo,MIT,https://github.com/apollographql/apollo-link#readme/blob/master/LICENSE
+UI,apollo-link-http-common,0.2.16,http,MIT,https://github.com/apollographql/apollo-link#readme/blob/master/LICENSE
+UI,apollo-upload-client,14.1.3,multipart,MIT,https://github.com/jaydenseric/apollo-upload-client#readme/blob/master/LICENSE
+UI,application-config-path,0.1.0,application,MIT,https://github.com/LinusU/node-application-config-path#readme/blob/master/LICENSE
+UI,app.macheye.com,1.0.0,{None},None,
+UI,aproba,2.0.0,validate,ISC,https://github.com/iarna/aproba/blob/master/LICENSE
+UI,archive-type,4.0.0,archive,MIT,https://github.com/kevva/archive-type#readme/blob/master/LICENSE
+UI,are-we-there-yet,3.0.1,are,ISC,https://github.com/npm/are-we-there-yet/blob/master/LICENSE
+UI,arg,5.0.2,arg,MIT,https://github.com/vercel/arg#readme/blob/master/LICENSE
+UI,aria-query,5.1.3,ARIA,Apache 2.0,https://github.com/A11yance/aria-query#readme/blob/master/LICENSE
+UI,array-filter,0.0.1,filter,MIT,https://github.com/juliangruber/array-filter/blob/master/LICENSE
+UI,array-find-index,1.0.2,ponyfill,MIT,https://github.com/sindresorhus/array-find-index#readme/blob/master/LICENSE
+UI,array-flatten,3.0.0,flatten,MIT,https://github.com/blakeembrey/array-flatten/blob/master/LICENSE
+UI,array-includes,3.1.6,includes,MIT,https://github.com/es-shims/array-includes#readme/blob/master/LICENSE
+UI,array-iterate,1.1.4,list,MIT,https://github.com/wooorm/array-iterate#readme/blob/master/LICENSE
+UI,array.prototype.flat,1.3.1,Array.prototype.flat,MIT,https://github.com/es-shims/Array.prototype.flat#readme/blob/master/LICENSE
+UI,array.prototype.flatmap,1.3.1,flatMap,MIT,https://github.com/es-shims/Array.prototype.flatMap#readme/blob/master/LICENSE
+UI,array.prototype.reduce,1.0.5,reduce,MIT,https://github.com/es-shims/Array.prototype.reduce#readme/blob/master/LICENSE
+UI,array.prototype.tosorted,1.1.1,ecmascript,MIT,https://github.com/es-shims/Array.prototype.toSorted#readme/blob/master/LICENSE
+UI,array-reduce,0.0.0,array,MIT,git://github.com/substack/array-reduce.git/blob/master/LICENSE
+UI,array-tree-filter,2.1.0,tree,MIT,https://github.com/afc163/array-tree-filter#readme/blob/master/LICENSE
+UI,array-union,2.1.0,set,MIT,https://github.com/sindresorhus/array-union#readme/blob/master/LICENSE
+UI,array-unique,0.3.2,unique,MIT,https://github.com/jonschlinkert/array-unique/blob/master/LICENSE
+UI,arrify,1.0.1,arrify,MIT,https://github.com/sindresorhus/arrify#readme/blob/master/LICENSE
+UI,arr-union,3.1.0,append,MIT,https://github.com/jonschlinkert/arr-union/blob/master/LICENSE
+UI,asap,2.0.6,task,MIT,https://github.com/kriskowal/asap#readme/blob/master/LICENSE
+UI,asn1,0.2.4,asn1,MIT,https://github.com/joyent/node-asn1#readme/blob/master/LICENSE
+UI,asn1.js,5.4.1,der,MIT,https://github.com/indutny/asn1.js/blob/master/LICENSE
+UI,assert,1.5.0,browser,MIT,https://github.com/browserify/commonjs-assert/blob/master/LICENSE
+UI,assert-plus,1.0.0,assert,MIT,https://github.com/mcavage/node-assert-plus#readme/blob/master/LICENSE
+UI,assign-symbols,1.0.0,es6,MIT,https://github.com/jonschlinkert/assign-symbols/blob/master/LICENSE
+UI,astral-regex,1.0.0,emoji,MIT,https://github.com/kevva/astral-regex#readme/blob/master/LICENSE
+UI,ast-types-flow,0.0.7,ast,MIT,https://github.com/kyldvs/ast-types-flow#readme/blob/master/LICENSE
+UI,async,3.2.4,callback,MIT,https://github.com/caolan/caolan/blob/master/LICENSE
+UI,async-cache,1.1.0,cache,ISC,https://github.com/isaacs/async-cache#readme/blob/master/LICENSE
+UI,async-each,1.0.3,forEach,MIT,https://github.com/paulmillr/async-each//blob/master/LICENSE
+UI,async-foreach,0.1.3,async,MIT,https://github.com/benalman/benalman/blob/master/LICENSE
+UI,asynckit,0.4.0,jobs,MIT,https://github.com/alexindigo/asynckit#readme/blob/master/LICENSE
+UI,at-least-node,1.0.0,feature,ISC,https://github.com/RyanZim/at-least-node#readme/blob/master/LICENSE
+UI,autoprefixer,9.8.6,css,MIT,https://github.com/postcss/autoprefixer#readme/blob/master/LICENSE
+UI,available-typed-arrays,1.0.5,arrays,MIT,https://github.com/inspect-js/available-typed-arrays#readme/blob/master/LICENSE
+UI,aws4,1.11.0,aws4,MIT,https://github.com/mhart/aws4#readme/blob/master/LICENSE
+UI,aws-sign2,0.7.0,aws,Apache 2.0,https://github.com/mikeal/aws-sign#readme/blob/master/LICENSE
+UI,axe-core,4.6.2,a11y,MPL 2.0,https://github.com/www/www/blob/master/LICENSE
+UI,axobject-query,2.2.0,accessibility,Apache 2.0,https://github.com/A11yance/axobject-query#readme/blob/master/LICENSE
+UI,babel-code-frame,6.26.0,babel,MIT,https://github.com/babeljs/babeljs/blob/master/LICENSE
+UI,babel/code-frame,7.18.6,code,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/compat-data,7.20.10,compat,MIT,https://github.com/babeljs/babeljs/blob/master/LICENSE
+UI,babel/eslint-parser,7.19.1,eslint,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel-extract-comments,1.0.0,block,MIT,https://github.com/jonschlinkert/babel-extract-comments/blob/master/LICENSE
+UI,babel/generator,7.20.7,generator,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/helper-annotate-as-pure,7.14.5,helper,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/helpers,7.20.7,helpers,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/highlight,7.18.6,highlight,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/parser,7.20.7,javascript,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel-plugin-add-module-exports,1.0.4,module.exports,MIT,https://github.com/59naga/babel-plugin-add-module-exports#readme/blob/master/LICENSE
+UI,babel-plugin-apply-mdx-type-prop,1.6.22,markdown,MIT,https://github.com/mdxjs/mdxjs/blob/master/LICENSE
+UI,babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression,7.18.6,bugfix,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel-plugin-dynamic-import-node,2.3.3,plugin,MIT,https://github.com/airbnb/babel-plugin-dynamic-import-node#readme/blob/master/LICENSE
+UI,babel-plugin-lodash,3.3.4,cherry,MIT,https://github.com/lodash/babel-plugin-lodash#readme/blob/master/LICENSE
+UI,babel-plugin-macros,3.1.0,macros,MIT,https://github.com/kentcdodds/babel-plugin-macros#readme/blob/master/LICENSE
+UI,babel/plugin-proposal-unicode-property-regex,7.18.6,regex,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/plugin-syntax-typescript,7.20.0,typescript,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/preset-env,7.20.2,preset,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/runtime,7.20.7,runtime,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/standalone,7.14.7,babeljs,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/template,7.20.7,template,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/traverse,7.20.12,traverse,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,babel/types,7.20.7,types,MIT,https://github.com/babel/babel/blob/master/LICENSE
+UI,backo2,1.0.2,backoff,MIT,https://github.com/mokesmokes/backo/blob/master/LICENSE
+UI,bail,2.0.2,bail,MIT,https://github.com/wooorm/bail#readme/blob/master/LICENSE
+UI,balanced-match,1.0.2,regexp,MIT,https://github.com/juliangruber/balanced-match/blob/master/LICENSE
+UI,base,0.11.2,boilerplate,MIT,https://github.com/node-base/base/blob/master/LICENSE
+UI,base64-arraybuffer,0.1.4,base64,MIT,https://github.com/niklasvh/base64-arraybuffer/blob/master/LICENSE
+UI,base64id,2.0.0,base64id,MIT,https://github.com/faeldt/base64id#readme/blob/master/LICENSE
+UI,batch,0.6.1,batch,MIT,https://github.com/visionmedia/batch#readme/blob/master/LICENSE
+UI,bcoe/v8-coverage,0.2.3,v8,MIT,https://github.com/demurgos/demurgos/blob/master/LICENSE
+UI,bcrypt-pbkdf,1.0.2,bcrypt,BSD 3.0,https://github.com/joyent/node-bcrypt-pbkdf#readme/blob/master/LICENSE
+UI,better-opn,2.1.1,open,MIT,https://github.com/ExiaSR/better-opn#readme/blob/master/LICENSE
+UI,better-queue,3.8.10,cargo,MIT,https://github.com/diamondio/better-queue/blob/master/LICENSE
+UI,better-queue-memory,1.0.4,queue,MIT,https://github.com/diamondio/better-queue-memory#readme/blob/master/LICENSE
+UI,bfj,7.0.2,streamify,MIT,https://github.com/gitlab/gitlab/blob/master/LICENSE
+UI,big.js,5.2.2,precision,MIT,https://github.com/MikeMcl/big.js#readme/blob/master/LICENSE
+UI,binary-extensions,2.2.0,extensions,MIT,https://github.com/sindresorhus/binary-extensions#readme/blob/master/LICENSE
+UI,bin-build,3.0.0,build,MIT,https://github.com/kevva/bin-build#readme/blob/master/LICENSE
+UI,bin-check,4.1.0,check,MIT,https://github.com/kevva/bin-check#readme/blob/master/LICENSE
+UI,bindings,1.5.0,addon,MIT,https://github.com/TooTallNate/node-bindings/blob/master/LICENSE
+UI,bin-version,3.1.0,executable,MIT,https://github.com/sindresorhus/bin-version#readme/blob/master/LICENSE
+UI,bin-version-check,4.0.0,binary,MIT,https://github.com/sindresorhus/bin-version-check#readme/blob/master/LICENSE
+UI,bl,4.1.0,buffers,MIT,https://github.com/rvagg/bl/blob/master/LICENSE
+UI,bluebird,3.7.2,performance,MIT,https://github.com/petkaantonov/bluebird/blob/master/LICENSE
+UI,bmp-js,0.1.0,1bit,MIT,https://github.com/shaozilee/bmp-js#readme/blob/master/LICENSE
+UI,bn.js,5.2.0,Big,MIT,https://github.com/indutny/bn.js/blob/master/LICENSE
+UI,body-parser,1.20.1,body,MIT,https://github.com/expressjs/body-parser#readme/blob/master/LICENSE
+UI,bonjour,3.5.0,zeroconf,MIT,https://github.com/watson/bonjour/blob/master/LICENSE
+UI,boolbase,1.0.0,boolbase,MIT,https://github.com/fb55/boolbase/blob/master/LICENSE
+UI,bootstrap,4.6.0,sass,MIT,https://github.com/getbootstrap/getbootstrap/blob/master/LICENSE
+UI,boxen,5.0.1,box,MIT,https://github.com/sindresorhus/boxen#readme/blob/master/LICENSE
+UI,brace-expansion,2.0.1,brace,MIT,https://github.com/juliangruber/brace-expansion/blob/master/LICENSE
+UI,braces,3.0.2,alphabetical,MIT,https://github.com/micromatch/braces/blob/master/LICENSE
+UI,brorand,1.1.0,RNG,MIT,https://github.com/indutny/brorand/blob/master/LICENSE
+UI,browserify-aes,1.2.0,crypto,MIT,https://github.com/crypto-browserify/browserify-aes/blob/master/LICENSE
+UI,browserslist,4.21.4,browsers,MIT,https://github.com/browserslist/browserslist#readme/blob/master/LICENSE
+UI,buffer-alloc,1.2.0,allocate,MIT,https://github.com/LinusU/buffer-alloc#readme/blob/master/LICENSE
+UI,buffer-crc32,0.2.13,buffer,MIT,https://github.com/brianloveswords/buffer-crc32/blob/master/LICENSE
+UI,buffer-equal,0.0.1,equal,MIT,https://github.com/inspect-js/buffer-equal#readme/blob/master/LICENSE
+UI,buffer-xor,1.0.3,bitwise,MIT,https://github.com/crypto-browserify/buffer-xor/blob/master/LICENSE
+UI,builtin-modules,3.3.0,built,MIT,https://github.com/sindresorhus/builtin-modules#readme/blob/master/LICENSE
+UI,builtins,5.0.1,builtins,MIT,https://github.com/juliangruber/builtins#readme/blob/master/LICENSE
+UI,builtin-status-codes,3.0.0,status,MIT,https://github.com/bendrucker/builtin-status-codes#readme/blob/master/LICENSE
+UI,bytes,3.1.2,bytes,MIT,https://github.com/visionmedia/bytes.js#readme/blob/master/LICENSE
+UI,cacache,16.1.3,caching,ISC,https://github.com/npm/cacache#readme/blob/master/LICENSE
+UI,cacheable-lookup,2.0.1,lookup,MIT,https://github.com/szmarczak/cacheable-lookup#readme/blob/master/LICENSE
+UI,cacheable-request,7.0.2,HTTPS,MIT,https://github.com/jaredwray/cacheable-request#readme/blob/master/LICENSE
+UI,cache-manager,2.11.1,redis,MIT,https://github.com/node-cache-manager/node-cache-manager#readme/blob/master/LICENSE
+UI,caller-callsite,2.0.0,calling,MIT,https://github.com/sindresorhus/caller-callsite#readme/blob/master/LICENSE
+UI,camel-case,4.1.2,case,MIT,https://github.com/blakeembrey/change-case/tree/master/packages/camel-case#readme/blob/master/LICENSE
+UI,camelcase,6.3.0,camel,MIT,https://github.com/sindresorhus/camelcase#readme/blob/master/LICENSE
+UI,camelcase-keys,6.2.2,obj,MIT,https://github.com/sindresorhus/camelcase-keys#readme/blob/master/LICENSE
+UI,caniuse-api,3.0.0,browserslist,MIT,https://github.com/nyalab/caniuse-api#readme/blob/master/LICENSE
+UI,caniuse-lite,1.0.30001442,support,CC-BY-4.0,https://github.com/browserslist/caniuse-lite#readme/blob/master/LICENSE
+UI,ccount,1.1.0,count,MIT,https://github.com/wooorm/ccount#readme/blob/master/LICENSE
+UI,chalk,4.1.2,colour,MIT,https://github.com/chalk/chalk#readme/blob/master/LICENSE
+UI,character-entities,1.2.4,entity,MIT,https://github.com/wooorm/character-entities#readme/blob/master/LICENSE
+UI,character-entities-html4,1.1.4,html4,MIT,https://github.com/wooorm/character-entities-html4#readme/blob/master/LICENSE
+UI,chardet,0.7.0,character,MIT,https://github.com/runk/node-chardet/blob/master/LICENSE
+UI,cheerio,1.0.0-rc.10,jquery,MIT,https://github.com/cheerio/cheerio/blob/master/LICENSE
+UI,cheerio-select,1.5.0,cheerio,BSD 2.0,https://github.com/cheeriojs/cheerio-select#readme/blob/master/LICENSE
+UI,chokidar,3.5.3,watch,MIT,https://github.com/paulmillr/chokidar/blob/master/LICENSE
+UI,chownr,2.0.0,chownr,ISC,https://github.com/isaacs/chownr#readme/blob/master/LICENSE
+UI,chrome-trace-event,1.0.3,trace,MIT,https://github.com/samccone/chrome-trace-event#readme/blob/master/LICENSE
+UI,ci-info,3.7.1,continuous,MIT,https://github.com/watson/ci-info/blob/master/LICENSE
+UI,cipher-base,1.0.4,stream,MIT,https://github.com/crypto-browserify/cipher-base#readme/blob/master/LICENSE
+UI,cjs-module-lexer,1.2.2,cjs,MIT,https://github.com/guybedford/cjs-module-lexer#readme/blob/master/LICENSE
+UI,class-utils,0.3.6,assign,MIT,https://github.com/jonschlinkert/class-utils/blob/master/LICENSE
+UI,clean-css,5.3.1,minifier,MIT,https://github.com/clean-css/clean-css/blob/master/LICENSE
+UI,clean-stack,2.2.0,stack,MIT,https://github.com/sindresorhus/clean-stack#readme/blob/master/LICENSE
+UI,cli-cursor,3.1.0,cursor,MIT,https://github.com/sindresorhus/cli-cursor#readme/blob/master/LICENSE
+UI,clipboardy,2.3.0,copy,MIT,https://github.com/sindresorhus/clipboardy#readme/blob/master/LICENSE
+UI,cliui,8.0.1,command,ISC,https://github.com/yargs/cliui#readme/blob/master/LICENSE
+UI,cli-width,3.0.0,cli,ISC,https://github.com/knownasilya/cli-width/blob/master/LICENSE
+UI,clone-response,1.0.2,response,MIT,https://github.com/sindresorhus/clone-response#readme/blob/master/LICENSE
+UI,clsx,1.2.1,classname,MIT,https://github.com/lukeed/clsx#readme/blob/master/LICENSE
+UI,co,4.6.0,flow,MIT,https://github.com/tj/co#readme/blob/master/LICENSE
+UI,coa,2.0.2,coa,MIT,http://github.com/veged/coa/blob/master/LICENSE
+UI,collapse-white-space,1.0.6,white,MIT,https://github.com/wooorm/collapse-white-space#readme/blob/master/LICENSE
+UI,collect-v8-coverage,1.0.1,collect,MIT,https://github.com/SimenB/collect-v8-coverage#readme/blob/master/LICENSE
+UI,color-name,1.1.4,color,MIT,https://github.com/colorjs/color-name/blob/master/LICENSE
+UI,combined-stream,1.0.8,combined,MIT,https://github.com/felixge/node-combined-stream/blob/master/LICENSE
+UI,commondir,1.0.1,path,MIT,https://github.com/substack/node-commondir/blob/master/LICENSE
+UI,compressible,2.0.18,gzip,MIT,https://github.com/jshttp/compressible#readme/blob/master/LICENSE
+UI,compression,1.7.4,compression,MIT,https://github.com/expressjs/compression#readme/blob/master/LICENSE
+UI,compute-scroll-into-view,2.0.3,scroll,MIT,https://github.com/scroll-into-view/scroll-into-view/blob/master/LICENSE
+UI,concat-map,0.0.1,concatMap,MIT,https://github.com/ljharb/concat-map#readme/blob/master/LICENSE
+UI,concat-stream,2.0.0,concat,MIT,https://github.com/maxogden/concat-stream#readme/blob/master/LICENSE
+UI,config-chain,1.1.13,config,MIT,http://github.com/dominictarr/config-chain/blob/master/LICENSE
+UI,configstore,5.0.1,store,BSD 2.0,https://github.com/yeoman/configstore#readme/blob/master/LICENSE
+UI,confusing-browser-globals,1.0.11,globals,MIT,https://github.com/facebook/create-react-app#readme/blob/master/LICENSE
+UI,connect-history-api-fallback,2.0.0,connect,MIT,https://github.com/bripkens/connect-history-api-fallback#readme/blob/master/LICENSE
+UI,console-browserify,1.2.0,console,MIT,https://github.com/browserify/console-browserify/blob/master/LICENSE
+UI,constants-browserify,1.0.0,node,MIT,https://github.com/juliangruber/constants-browserify/blob/master/LICENSE
+UI,contentful-management,7.27.1,contentful,MIT,https://github.com/www/www/blob/master/LICENSE
+UI,convert-hrtime,3.0.0,hrtime,MIT,https://github.com/sindresorhus/convert-hrtime#readme/blob/master/LICENSE
+UI,convert-source-map,1.9.0,sourcemap,MIT,https://github.com/thlorenz/convert-source-map/blob/master/LICENSE
+UI,cookie,0.5.0,cookies,MIT,https://github.com/jshttp/cookie#readme/blob/master/LICENSE
+UI,cookie-signature,1.0.6,sign,MIT,https://github.com/visionmedia/node-cookie-signature#readme/blob/master/LICENSE
+UI,copy-concurrently,1.0.5,cpr,ISC,https://github.com/www/www/blob/master/LICENSE
+UI,copy-descriptor,0.1.1,descriptor,MIT,https://github.com/jonschlinkert/copy-descriptor/blob/master/LICENSE
+UI,copyfiles,2.4.1,copyfiles,MIT,https://github.com/calvinmetcalf/copyfiles#readme/blob/master/LICENSE
+UI,core-js,3.27.1,ES5,MIT,https://github.com/zloirock/core-js#readme/blob/master/LICENSE
+UI,core-js-compat,3.27.1,core,MIT,https://github.com/zloirock/core-js#readme/blob/master/LICENSE
+UI,core-util-is,1.0.3,isBuffer,MIT,https://github.com/isaacs/core-util-is#readme/blob/master/LICENSE
+UI,cors,2.8.5,express,MIT,https://github.com/expressjs/cors#readme/blob/master/LICENSE
+UI,cosmiconfig,7.1.0,configuration,MIT,https://github.com/cosmiconfig/cosmiconfig#readme/blob/master/LICENSE
+UI,cosmiconfig-toml-loader,1.0.0,toml,MIT,https://github.com/danielrearden/cosmiconfig-toml-loader#readme/blob/master/LICENSE
+UI,create-ecdh,4.0.4,hellman,MIT,https://github.com/crypto-browserify/createECDH/blob/master/LICENSE
+UI,create-gatsby,0.5.1,create,MIT,https://github.com/gatsbyjs/gatsby/tree/master/packages/create-gatsby#readme/blob/master/LICENSE
+UI,create-hmac,1.1.7,hmac,MIT,https://github.com/crypto-browserify/createHmac/blob/master/LICENSE
+UI,create-react-context,0.3.0,context,MIT,https://github.com/thejameskyle/create-react-context#readme/blob/master/LICENSE
+UI,cross-spawn,7.0.3,spawnSync,MIT,https://github.com/moxystudio/node-cross-spawn/blob/master/LICENSE
+UI,crypto-random-string,2.0.0,string,MIT,https://github.com/sindresorhus/crypto-random-string#readme/blob/master/LICENSE
+UI,cssdb,7.2.0,features,CC0 1.0,https://github.com/csstools/cssdb#readme/blob/master/LICENSE
+UI,css-declaration-sorter,6.3.1,postcss,ISC,https://github.com/Siilwyn/css-declaration-sorter#readme/blob/master/LICENSE
+UI,cssesc,3.0.0,escape,MIT,https://github.com/mths/mths/blob/master/LICENSE
+UI,css.escape,1.5.1,unicode,MIT,https://github.com/mths/mths/blob/master/LICENSE
+UI,cssfilter,0.0.10,xss,MIT,https://github.com/leizongmin/js-css-filter/blob/master/LICENSE
+UI,cssnano,5.1.14,compress,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,cssnano-preset-default,5.2.13,cssnano,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,cssom,0.4.4,CSSOM,MIT,https://github.com/NV/CSSOM#readme/blob/master/LICENSE
+UI,css-select,4.3.0,selector,BSD 2.0,https://github.com/fb55/css-select#readme/blob/master/LICENSE
+UI,css-select-base-adapter,0.1.1,select,MIT,https://github.com/nrkn/css-select-base-adapter#readme/blob/master/LICENSE
+UI,css-selector-tokenizer,0.7.3,selectors,MIT,https://github.com/css-modules/css-selector-tokenizer/blob/master/LICENSE
+UI,cssstyle,2.3.0,CSSStyleDeclaration,MIT,https://github.com/jsdom/cssstyle/blob/master/LICENSE
+UI,csstools/normalize.css,12.0.0,normalizes,CC0 1.0,https://github.com/csstools/normalize.css#readme/blob/master/LICENSE
+UI,csstools/postcss-font-format-keywords,1.0.1,embedded,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-font-format-keywords#readme/blob/master/LICENSE
+UI,csstools/postcss-hwb-function,1.0.2,comma,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-hwb-function#readme/blob/master/LICENSE
+UI,csstools/postcss-is-pseudo-class,2.0.7,is,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-is-pseudo-class#readme/blob/master/LICENSE
+UI,csstools/postcss-progressive-custom-properties,1.3.0,custom,CC0 1.0,https://github.com/csstools/postcss-plugins#readme/blob/master/LICENSE
+UI,csstools/postcss-stepped-value-functions,1.0.1,modulus,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-stepped-value-functions#readme/blob/master/LICENSE
+UI,csstools/postcss-trigonometric-functions,1.0.2,acos2,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-trigonometric-functions#readme/blob/master/LICENSE
+UI,csstools/postcss-unset-value,1.0.2,initial,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-unset-value#readme/blob/master/LICENSE
+UI,csstype,3.1.1,style,MIT,https://github.com/frenic/csstype#readme/blob/master/LICENSE
+UI,css-vendor,2.0.8,vendor,MIT,https://github.com/cssinjs/css-vendor#readme/blob/master/LICENSE
+UI,currently-unhandled,0.4.1,unhandledRejection,MIT,https://github.com/jamestalmage/currently-unhandled#readme/blob/master/LICENSE
+UI,d,1.0.1,es,ISC,https://github.com/medikoo/d#readme/blob/master/LICENSE
+UI,damerau-levenshtein,1.0.8,Damerau,BSD 2.0,https://github.com/tad-lispy/node-damerau-levenshtein#readme/blob/master/LICENSE
+UI,dataloader,2.0.0,dataloader,MIT,https://github.com/graphql/dataloader/blob/master/LICENSE
+UI,data-urls,2.0.0,data,MIT,https://github.com/jsdom/data-urls#readme/blob/master/LICENSE
+UI,date-fns,2.22.1,date,MIT,https://github.com/date-fns/date-fns#readme/blob/master/LICENSE
+UI,debug,4.3.4,log,MIT,https://github.com/debug-js/debug#readme/blob/master/LICENSE
+UI,decamelize,1.2.0,decamelcase,MIT,https://github.com/sindresorhus/decamelize#readme/blob/master/LICENSE
+UI,decamelize-keys,1.1.1,object,MIT,https://github.com/sindresorhus/decamelize-keys#readme/blob/master/LICENSE
+UI,decode-uri-component,0.2.0,uri,MIT,https://github.com/SamVerschueren/decode-uri-component#readme/blob/master/LICENSE
+UI,decompress,4.2.1,bzip2,MIT,https://github.com/kevva/decompress#readme/blob/master/LICENSE
+UI,decompress-tar,4.1.1,decompressplugin,MIT,https://github.com/kevva/decompress-tar#readme/blob/master/LICENSE
+UI,decompress-tarbz2,4.1.1,decompress,MIT,https://github.com/kevva/decompress-tarbz2#readme/blob/master/LICENSE
+UI,dedent,0.7.0,tag,MIT,https://github.com/dmnd/dedent/blob/master/LICENSE
+UI,deep-extend,0.6.0,extend,MIT,https://github.com/unclechu/node-deep-extend/blob/master/LICENSE
+UI,deepmerge,4.2.2,deep,MIT,https://github.com/TehShrike/deepmerge/blob/master/LICENSE
+UI,default-gateway,6.0.3,network,BSD 2.0,https://github.com/silverwind/default-gateway#readme/blob/master/LICENSE
+UI,defined,1.0.1,short,MIT,https://github.com/inspect-js/defined/blob/master/LICENSE
+UI,define-lazy-prop,2.0.0,property,MIT,https://github.com/sindresorhus/define-lazy-prop#readme/blob/master/LICENSE
+UI,define-properties,1.1.4,Object.defineProperties,MIT,https://github.com/ljharb/define-properties#readme/blob/master/LICENSE
+UI,define-property,2.0.2,define,MIT,https://github.com/jonschlinkert/define-property/blob/master/LICENSE
+UI,del,5.1.0,files,MIT,https://github.com/sindresorhus/del#readme/blob/master/LICENSE
+UI,delayed-stream,1.0.0,delayed,MIT,https://github.com/felixge/node-delayed-stream/blob/master/LICENSE
+UI,delegates,1.0.0,delegation,MIT,https://github.com/visionmedia/node-delegates#readme/blob/master/LICENSE
+UI,depd,2.0.0,deprecated,MIT,https://github.com/dougwilson/nodejs-depd#readme/blob/master/LICENSE
+UI,des.js,1.0.1,3DES,MIT,https://github.com/indutny/des.js#readme/blob/master/LICENSE
+UI,destroy,1.2.0,streams,MIT,https://github.com/stream-utils/destroy#readme/blob/master/LICENSE
+UI,detab,2.0.4,tab,MIT,https://github.com/wooorm/detab#readme/blob/master/LICENSE
+UI,detect-libc,1.0.3,glibc,Apache 2.0,https://github.com/lovell/detect-libc#readme/blob/master/LICENSE
+UI,detect-newline,3.1.0,linebreak,MIT,https://github.com/sindresorhus/detect-newline#readme/blob/master/LICENSE
+UI,detect-port,1.3.0,port,MIT,https://github.com/node-modules/detect-port/blob/master/LICENSE
+UI,devcert,1.1.3,certificate,MIT,https://github.com/davewasmer/devcert#readme/blob/master/LICENSE
+UI,didyoumean,1.2.2,mean,Apache 2.0,https://github.com/dcporter/didyoumean.js/blob/master/LICENSE
+UI,diff,4.0.2,jsdiff,BSD 3.0,https://github.com/kpdecker/jsdiff#readme/blob/master/LICENSE
+UI,diff-sequences,29.3.1,linear,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,dir-glob,3.0.1,directory,MIT,https://github.com/kevva/dir-glob#readme/blob/master/LICENSE
+UI,dlv,1.1.3,dot,MIT,https://github.com/developit/dlv#readme/blob/master/LICENSE
+UI,dns-equal,1.0.0,compare,MIT,https://github.com/watson/dns-equal#readme/blob/master/LICENSE
+UI,dns-packet,5.4.0,packet,MIT,https://github.com/mafintosh/dns-packet/blob/master/LICENSE
+UI,dns-txt,2.0.2,6763,MIT,https://github.com/watson/dns-txt/blob/master/LICENSE
+UI,doctrine,3.0.0,doctrine,Apache 2.0,https://github.com/eslint/doctrine/blob/master/LICENSE
+UI,dom-converter,0.2.0,dom,MIT,https://github.com/AriaMinaei/dom-converter#readme/blob/master/LICENSE
+UI,domelementtype,2.3.0,element,BSD 2.0,https://github.com/fb55/domelementtype#readme/blob/master/LICENSE
+UI,domexception,2.0.1,webidl,MIT,https://github.com/jsdom/domexception#readme/blob/master/LICENSE
+UI,domhandler,4.3.1,htmlparser2,BSD 2.0,https://github.com/fb55/domhandler#readme/blob/master/LICENSE
+UI,dom-helpers,5.2.1,react,MIT,https://github.com/react-bootstrap/dom-helpers#readme/blob/master/LICENSE
+UI,dom-serializer,1.4.1,xml,MIT,https://github.com/cheeriojs/dom-serializer#readme/blob/master/LICENSE
+UI,dotenv,8.6.0,env,BSD 2.0,https://github.com/motdotla/dotenv#readme/blob/master/LICENSE
+UI,dotenv-expand,5.1.0,expand,BSD 2.0,https://github.com/motdotla/dotenv-expand#readme/blob/master/LICENSE
+UI,dot-prop,5.3.0,prop,MIT,https://github.com/sindresorhus/dot-prop#readme/blob/master/LICENSE
+UI,download,7.1.0,extract,MIT,https://github.com/kevva/download#readme/blob/master/LICENSE
+UI,duplexer,0.1.2,duplexer,MIT,https://github.com/Raynos/duplexer/blob/master/LICENSE
+UI,duplexify,3.7.1,streams2,MIT,https://github.com/mafintosh/duplexify/blob/master/LICENSE
+UI,eastasianwidth,0.2.0,eastasianwidth,MIT,https://github.com/komagata/eastasianwidth#readme/blob/master/LICENSE
+UI,ecc-jsbn,0.1.2,ecc,MIT,https://github.com/quartzjer/ecc-jsbn/blob/master/LICENSE
+UI,ee-first,1.1.1,ee,MIT,https://github.com/jonathanong/ee-first/blob/master/LICENSE
+UI,ejs,3.1.8,engine,Apache 2.0,https://github.com/mde/ejs/blob/master/LICENSE
+UI,electron-to-chromium,1.4.284,chrome,ISC,https://github.com/kilian/electron-to-chromium#readme/blob/master/LICENSE
+UI,elliptic,6.5.4,Elliptic,MIT,https://github.com/indutny/elliptic/blob/master/LICENSE
+UI,emittery,0.8.1,emitter,MIT,https://github.com/sindresorhus/emittery#readme/blob/master/LICENSE
+UI,emojis-list,3.0.0,complete,MIT,https://github.com/nidecoc/nidecoc/blob/master/LICENSE
+UI,emotion/hash,0.8.0,hash,MIT,https://github.com/emotion-js/emotion/tree/main#readme/blob/master/LICENSE
+UI,emotion/unitless,0.7.5,unitless,MIT,https://github.com/emotion-js/emotion/tree/main#readme/blob/master/LICENSE
+UI,encodeurl,1.0.2,encodeurl,MIT,https://github.com/pillarjs/encodeurl#readme/blob/master/LICENSE
+UI,encoding,0.1.13,encoding,MIT,https://github.com/andris9/encoding#readme/blob/master/LICENSE
+UI,endemolshinegroup/cosmiconfig-typescript-loader,3.0.2,cosmiconfig,MIT,https://github.com/EndemolShineGroup/cosmiconfig-typescript-loader/blob/master/LICENSE
+UI,engine.io,4.1.1,engine.io,MIT,https://github.com/socketio/engine.io/blob/master/LICENSE
+UI,enhanced-resolve,5.12.0,enhanced,MIT,http://github.com/webpack/enhanced-resolve/blob/master/LICENSE
+UI,entities,2.2.0,decoding,BSD 2.0,https://github.com/fb55/entities#readme/blob/master/LICENSE
+UI,env-paths,2.2.1,user,MIT,https://github.com/sindresorhus/env-paths#readme/blob/master/LICENSE
+UI,eol,0.9.1,lf,MIT,https://github.com/ryanve/eol/blob/master/LICENSE
+UI,err-code,2.0.3,err,MIT,https://github.com/IndigoUnited/js-err-code#readme/blob/master/LICENSE
+UI,errno,0.1.8,errno,MIT,https://github.com/rvagg/node-errno#readme/blob/master/LICENSE
+UI,error-ex,1.3.2,errors,MIT,https://github.com/qix-/node-error-ex#readme/blob/master/LICENSE
+UI,es5-ext,0.10.53,ecmascript5,ISC,https://github.com/medikoo/es5-ext#readme/blob/master/LICENSE
+UI,es6-symbol,3.1.3,private,ISC,https://github.com/medikoo/es6-symbol#readme/blob/master/LICENSE
+UI,es6-weak-map,2.0.3,weakmap,ISC,https://github.com/medikoo/es6-weak-map#readme/blob/master/LICENSE
+UI,es-abstract,1.21.0,ES,MIT,https://github.com/ljharb/es-abstract#readme/blob/master/LICENSE
+UI,escalade,3.1.1,parent,MIT,https://github.com/lukeed/escalade#readme/blob/master/LICENSE
+UI,escape-goat,2.1.1,unescape,MIT,https://github.com/sindresorhus/escape-goat#readme/blob/master/LICENSE
+UI,escodegen,2.0.0,escodegen,BSD 2.0,http://github.com/estools/escodegen/blob/master/LICENSE
+UI,es-get-iterator,1.1.2,Symbol.iterator,MIT,https://github.com/ljharb/es-get-iterator#readme/blob/master/LICENSE
+UI,eslint,8.31.0,lint,MIT,https://github.com/eslint/eslint/blob/master/LICENSE
+UI,eslint-config-prettier,6.15.0,eslintconfig,MIT,https://github.com/prettier/eslint-config-prettier#readme/blob/master/LICENSE
+UI,eslint/eslintrc,1.4.1,ESLintRC,MIT,https://github.com/eslint/eslintrc#readme/blob/master/LICENSE
+UI,eslint-import-resolver-node,0.3.6,eslintplugin,MIT,https://github.com/import-js/eslint-plugin-import/blob/master/LICENSE
+UI,esrecurse,4.3.0,esrecurse,BSD 2.0,https://github.com/estools/esrecurse/blob/master/LICENSE
+UI,es-to-primitive,1.2.1,abstract,MIT,https://github.com/ljharb/es-to-primitive#readme/blob/master/LICENSE
+UI,estraverse,5.3.0,estraverse,BSD 2.0,https://github.com/estools/estraverse/blob/master/LICENSE
+UI,estree-walker,1.0.1,estree,MIT,https://github.com/Rich-Harris/estree-walker#readme/blob/master/LICENSE
+UI,esutils,2.0.3,esutils,BSD 2.0,https://github.com/estools/esutils/blob/master/LICENSE
+UI,eval,0.1.6,eval,MIT,http://github.com/pierrec/node-eval/blob/master/LICENSE
+UI,event-emitter,0.3.5,events,MIT,https://github.com/medikoo/event-emitter#readme/blob/master/LICENSE
+UI,eventemitter3,4.0.7,EventEmitter2,MIT,https://github.com/primus/eventemitter3#readme/blob/master/LICENSE
+UI,events,3.3.0,eventEmitter,MIT,https://github.com/Gozala/events#readme/blob/master/LICENSE
+UI,event-source-polyfill,1.0.24,server,MIT,https://github.com/Yaffle/EventSource/blob/master/LICENSE
+UI,evp_bytestokey,1.0.3,openssl,MIT,https://github.com/crypto-browserify/EVP_BytesToKey/blob/master/LICENSE
+UI,execa,5.1.1,child,MIT,https://github.com/sindresorhus/execa#readme/blob/master/LICENSE
+UI,exif-parser,0.1.12,image,MIT,https://github.com/bwindels/exif-parser#readme/blob/master/LICENSE
+UI,exit,0.1.2,exit,MIT,https://github.com/benalman/benalman/blob/master/LICENSE
+UI,expand-brackets,2.1.4,brackets,MIT,https://github.com/micromatch/expand-brackets/blob/master/LICENSE
+UI,expect,29.3.1,expect,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,express,4.18.2,framework,MIT,https://github.com/expressjs/expressjs/blob/master/LICENSE
+UI,express-graphql,0.9.0,restify,MIT,https://github.com/graphql/express-graphql/blob/master/LICENSE
+UI,extend,3.0.2,clone,MIT,https://github.com/justmoon/node-extend#readme/blob/master/LICENSE
+UI,external-editor,3.1.0,external,MIT,https://github.com/mrkmg/node-external-editor#readme/blob/master/LICENSE
+UI,extglob,2.0.4,extended,MIT,https://github.com/micromatch/extglob/blob/master/LICENSE
+UI,ext-list,2.2.2,mime,MIT,https://github.com/kevva/ext-list#readme/blob/master/LICENSE
+UI,ext-name,5.0.0,extname,MIT,https://github.com/kevva/ext-name#readme/blob/master/LICENSE
+UI,extract-files,9.0.0,file,MIT,https://github.com/jaydenseric/extract-files#readme/blob/master/LICENSE
+UI,extsprintf,1.3.0,extsprintf,MIT,https://github.com/davepacheco/node-extsprintf#readme/blob/master/LICENSE
+UI,fast-diff,1.2.0,diff,Apache 2.0,https://github.com/jhchen/fast-diff#readme/blob/master/LICENSE
+UI,fastest-levenshtein,1.0.12,distance,MIT,https://github.com/ka-weihe/fastest-levenshtein#README/blob/master/LICENSE
+UI,fast-glob,3.2.6,patterns,MIT,https://github.com/mrmlnc/fast-glob#readme/blob/master/LICENSE
+UI,fast-json-stable-stringify,2.1.0,stringify,MIT,https://github.com/epoberezkin/fast-json-stable-stringify/blob/master/LICENSE
+UI,fault,2.0.1,exception,MIT,https://github.com/wooorm/fault#readme/blob/master/LICENSE
+UI,faye-websocket,0.11.4,eventsource,Apache 2.0,https://github.com/faye/faye-websocket-node/blob/master/LICENSE
+UI,fb-watchman,2.0.2,watchman,Apache 2.0,https://github.com/facebook/facebook/blob/master/LICENSE
+UI,fd,0.0.3,fs,MIT,https://github.com/rvagg/node-fd/blob/master/LICENSE
+UI,fd-slicer,1.1.0,createWriteStream,MIT,https://github.com/andrewrk/node-fd-slicer#readme/blob/master/LICENSE
+UI,figgy-pudding,3.5.2,options,ISC,https://github.com/npm/figgy-pudding#readme/blob/master/LICENSE
+UI,filelist,1.0.4,utility,Apache 2.0,https://github.com/mde/filelist/blob/master/LICENSE
+UI,file-loader,6.2.0,webpack,MIT,https://github.com/webpack-contrib/file-loader/blob/master/LICENSE
+UI,filenamify,4.3.0,safe,MIT,https://github.com/sindresorhus/filenamify#readme/blob/master/LICENSE
+UI,filesize,8.0.7,filesize,BSD 3.0,https://github.com/filesizejs/filesizejs/blob/master/LICENSE
+UI,finalhandler,1.2.0,finalhandler,MIT,https://github.com/pillarjs/finalhandler#readme/blob/master/LICENSE
+UI,find-up,5.0.0,up,MIT,https://github.com/sindresorhus/find-up#readme/blob/master/LICENSE
+UI,find-versions,3.2.0,version,MIT,https://github.com/sindresorhus/find-versions#readme/blob/master/LICENSE
+UI,flat-cache,3.0.4,simple,MIT,https://github.com/royriojas/flat-cache#readme/blob/master/LICENSE
+UI,flush-write-stream,1.1.1,flush,MIT,https://github.com/mafintosh/flush-write-stream/blob/master/LICENSE
+UI,for-each,0.3.3,for,MIT,https://github.com/Raynos/for-each/blob/master/LICENSE
+UI,forever-agent,0.6.1,forever,Apache 2.0,https://github.com/mikeal/forever-agent/blob/master/LICENSE
+UI,format,0.2.2,format,MIT,https://github.com/samhuri/samhuri/blob/master/LICENSE
+UI,form-data,4.0.0,form,MIT,https://github.com/form-data/form-data#readme/blob/master/LICENSE
+UI,form-serialize,0.7.2,serialize,MIT,https://github.com/shtylman/form-serialize#readme/blob/master/LICENSE
+UI,fortawesome/fontawesome-common-types,0.2.35,awesome,MIT,https://github.com/fontawesome/fontawesome/blob/master/LICENSE
+UI,fraction.js,4.2.0,fraction,MIT,https://github.com/www/www/blob/master/LICENSE
+UI,fragment-cache,0.2.1,fragment,MIT,https://github.com/jonschlinkert/fragment-cache/blob/master/LICENSE
+UI,fsevents,2.3.2,mac,MIT,https://github.com/fsevents/fsevents/blob/master/LICENSE
+UI,fstream,1.0.12,fstream,ISC,https://github.com/npm/fstream#readme/blob/master/LICENSE
+UI,functional-red-black-tree,1.0.1,red,MIT,https://github.com/mikolalysenko/functional-red-black-tree/blob/master/LICENSE
+UI,function-bind,1.1.1,bind,MIT,https://github.com/Raynos/function-bind/blob/master/LICENSE
+UI,function.prototype.name,1.1.5,function,MIT,https://github.com/es-shims/Function.prototype.name#readme/blob/master/LICENSE
+UI,functions-have-names,1.2.3,name,MIT,https://github.com/inspect-js/functions-have-names#readme/blob/master/LICENSE
+UI,gar/promisify,1.1.3,all,MIT,https://github.com/wraithgar/gar-promisify#readme/blob/master/LICENSE
+UI,gatsby-cli,2.19.3,gatsby,MIT,https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-cli#readme/blob/master/LICENSE
+UI,gatsby-graphiql-explorer,0.11.0,graphiql,MIT,https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-graphiql-explorer#readme/blob/master/LICENSE
+UI,gatsby-plugin-react-svg,2.1.2,svg,MIT,https://github.com/jacobmischka/gatsby-plugin-react-svg#readme/blob/master/LICENSE
+UI,gatsby-telemetry,1.10.2,telemetry,MIT,https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-telemetry#readme/blob/master/LICENSE
+UI,gauge,4.0.4,progress,ISC,https://github.com/npm/gauge/blob/master/LICENSE
+UI,gaze,1.1.3,glob,MIT,https://github.com/shama/gaze/blob/master/LICENSE
+UI,gensync,1.0.0-beta.2,sync,MIT,https://github.com/loganfsmyth/gensync/blob/master/LICENSE
+UI,get-caller-file,2.0.5,get,ISC,https://github.com/stefanpenner/get-caller-file#readme/blob/master/LICENSE
+UI,get-own-enumerable-property-symbols,3.0.2,enumerable,ISC,https://github.com/mightyiam/get-own-enumerable-property-symbols#readme/blob/master/LICENSE
+UI,getpass,0.1.7,getpass,MIT,https://github.com/arekinath/node-getpass#readme/blob/master/LICENSE
+UI,get-port,3.2.0,find,MIT,https://github.com/sindresorhus/get-port#readme/blob/master/LICENSE
+UI,get-src,1.0.1,iframe,MIT,https://github.com/radiovisual/get-src#readme/blob/master/LICENSE
+UI,get-stdin,6.0.0,stdin,MIT,https://github.com/sindresorhus/get-stdin#readme/blob/master/LICENSE
+UI,get-value,2.0.6,key,MIT,https://github.com/jonschlinkert/get-value/blob/master/LICENSE
+UI,github-from-package,0.0.0,github,MIT,git://github.com/substack/github-from-package.git/blob/master/LICENSE
+UI,git-up,4.0.2,url,MIT,https://github.com/IonicaBizau/git-up/blob/master/LICENSE
+UI,global,4.4.0,global,MIT,https://github.com/Raynos/global/blob/master/LICENSE
+UI,global-dirs,3.0.0,prefix,MIT,https://github.com/sindresorhus/global-dirs#readme/blob/master/LICENSE
+UI,global-modules,2.0.0,dirname,MIT,https://github.com/jonschlinkert/global-modules/blob/master/LICENSE
+UI,global-prefix,3.0.0,module,MIT,https://github.com/jonschlinkert/global-prefix/blob/master/LICENSE
+UI,globalthis,1.0.3,self,MIT,https://github.com/ljharb/System.global#readme/blob/master/LICENSE
+UI,grapheme-splitter,1.0.4,strings,MIT,https://github.com/orling/grapheme-splitter/blob/master/LICENSE
+UI,graphql-compose,6.3.8,compose,MIT,https://github.com/graphql-compose/graphql-compose/blob/master/LICENSE
+UI,graphql-tools/delegate,7.1.5,delegate,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,graphql-tools/import,6.3.1,import,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,graphql-tools/links,7.1.0,links,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,graphql-tools/load,6.2.8,load,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,graphql-tools/merge,6.2.14,merge,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,graphql-tools/utils,7.10.0,utils,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,graphql-tools/wrap,7.0.8,wrap,MIT,https://github.com/ardatan/graphql-tools#readme/blob/master/LICENSE
+UI,gray-matter,4.0.3,coffee,MIT,https://github.com/jonschlinkert/gray-matter/blob/master/LICENSE
+UI,gzip-size,6.0.0,tool,MIT,https://github.com/sindresorhus/gzip-size#readme/blob/master/LICENSE
+UI,handle-thing,2.0.1,net,MIT,https://github.com/spdy-http2/handle-thing#readme/blob/master/LICENSE
+UI,hapi/address,2.1.4,domain,BSD 3.0,https://github.com/hapijs/address#readme/blob/master/LICENSE
+UI,hapi/bourne,1.3.2,parse,BSD 3.0,https://github.com/hapijs/bourne#readme/blob/master/LICENSE
+UI,hapi/hoek,9.2.0,utilities,BSD 3.0,https://github.com/hapijs/hoek#readme/blob/master/LICENSE
+UI,hapi/joi,15.1.1,validation,BSD 3.0,https://github.com/hapijs/joi#readme/blob/master/LICENSE
+UI,hapi/topo,5.1.0,sort,BSD 3.0,https://github.com/hapijs/topo#readme/blob/master/LICENSE
+UI,hard-rejection,2.1.0,promises,MIT,https://github.com/sindresorhus/hard-rejection#readme/blob/master/LICENSE
+UI,harmony-reflect,1.6.2,proxies,Apache 2.0,https://github.com/tvcutsem/harmony-reflect/blob/master/LICENSE
+UI,has,1.0.3,has,MIT,https://github.com/tarruda/has/blob/master/LICENSE
+UI,has-bigints,1.0.2,bigints,MIT,https://github.com/ljharb/has-bigints#readme/blob/master/LICENSE
+UI,has-cors,1.1.0,cross,MIT,https://github.com/component/has-cors/blob/master/LICENSE
+UI,hasha,5.2.2,hashing,MIT,https://github.com/sindresorhus/hasha#readme/blob/master/LICENSE
+UI,hash.js,1.1.7,sha256,MIT,https://github.com/indutny/hash.js/blob/master/LICENSE
+UI,has-property-descriptors,1.0.0,descriptors,MIT,https://github.com/inspect-js/has-property-descriptors#readme/blob/master/LICENSE
+UI,has-proto,1.0.1,proto,MIT,https://github.com/inspect-js/has-proto#readme/blob/master/LICENSE
+UI,has-symbols,1.0.3,symbols,MIT,https://github.com/ljharb/has-symbols#readme/blob/master/LICENSE
+UI,has-symbol-support-x,1.4.2,hasSymbolSupport,MIT,https://github.com/Xotic750/has-symbol-support-x/blob/master/LICENSE
+UI,has-to-string-tag-x,1.4.1,hasToStringTag,MIT,https://github.com/Xotic750/has-to-string-tag-x/blob/master/LICENSE
+UI,hastscript,6.0.0,hast,MIT,https://github.com/syntax-tree/hastscript#readme/blob/master/LICENSE
+UI,has-value,1.0.0,boolean,MIT,https://github.com/jonschlinkert/has-value/blob/master/LICENSE
+UI,he,1.2.0,entities,MIT,https://github.com/mths/mths/blob/master/LICENSE
+UI,hicat,0.8.0,hicat,MIT,https://github.com/rstacruz/hicat#readme/blob/master/LICENSE
+UI,highlight.js,10.7.3,syntax,BSD 3.0,https://github.com/highlightjs/highlightjs/blob/master/LICENSE
+UI,history,4.10.1,location,MIT,https://github.com/remix-run/history#readme/blob/master/LICENSE
+UI,hmac-drbg,1.0.1,drbg,MIT,https://github.com/indutny/hmac-drbg#readme/blob/master/LICENSE
+UI,homedir-polyfill,1.0.3,homedir,MIT,https://github.com/doowb/homedir-polyfill/blob/master/LICENSE
+UI,hoopy,0.1.4,structure,MIT,https://github.com/gitlab/gitlab/blob/master/LICENSE
+UI,hpack.js,2.1.6,HTTP2,MIT,https://github.com/indutny/hpack.js#readme/blob/master/LICENSE
+UI,html-void-elements,1.0.5,void,MIT,https://github.com/wooorm/html-void-elements#readme/blob/master/LICENSE
+UI,http-proxy-agent,5.0.0,proxy,MIT,https://github.com/TooTallNate/proxy-agents#readme/blob/master/LICENSE
+UI,http-signature,1.2.0,request,MIT,https://github.com/joyent/node-http-signature//blob/master/LICENSE
+UI,humanize-ms,1.2.1,ms,MIT,https://github.com/node-modules/humanize-ms#readme/blob/master/LICENSE
+UI,human-signals,2.1.0,signals,Apache 2.0,https://github.com/www/www/blob/master/LICENSE
+UI,humanwhocodes/config-array,0.11.8,configarray,Apache 2.0,https://github.com/humanwhocodes/config-array#readme/blob/master/LICENSE
+UI,humanwhocodes/module-importer,1.0.1,esm,Apache 2.0,https://github.com/humanwhocodes/module-importer#readme/blob/master/LICENSE
+UI,icss-replace-symbols,1.1.0,modules,ISC,https://github.com/css-modules/icss-replace-symbols#readme/blob/master/LICENSE
+UI,idb,7.1.1,idb,ISC,https://github.com/jakearchibald/idb#readme/blob/master/LICENSE
+UI,idb-keyval,3.2.0,indexeddb,Apache 2.0,https://github.com/jakearchibald/idb-keyval#readme/blob/master/LICENSE
+UI,ignore,5.2.4,.gitignore,MIT,https://github.com/kaelzhang/node-ignore#readme/blob/master/LICENSE
+UI,image-q,1.1.1,palette,MIT,https://github.com/ibezkrovnyi/image-quantization/tree/main/packages/image-q/blob/master/LICENSE
+UI,immer,9.0.17,mutable,MIT,https://github.com/immerjs/immer#readme/blob/master/LICENSE
+UI,import-cwd,2.1.0,resolve,MIT,https://github.com/sindresorhus/import-cwd#readme/blob/master/LICENSE
+UI,import-lazy,3.1.0,require,MIT,https://github.com/sindresorhus/import-lazy#readme/blob/master/LICENSE
+UI,import-local,3.1.0,local,MIT,https://github.com/sindresorhus/import-local#readme/blob/master/LICENSE
+UI,imurmurhash,0.1.4,imurmurhash,MIT,https://github.com/jensyt/imurmurhash-js/blob/master/LICENSE
+UI,indexes-of,1.0.1,indexes,MIT,git://github.com/dominictarr/indexes-of.git/blob/master/LICENSE
+UI,infer-owner,1.0.4,infer,ISC,https://github.com/npm/infer-owner#readme/blob/master/LICENSE
+UI,inflight,1.0.6,inflight,ISC,https://github.com/isaacs/inflight/blob/master/LICENSE
+UI,inherits,2.0.4,class,ISC,https://github.com/isaacs/inherits#readme/blob/master/LICENSE
+UI,ini,3.0.0,ini,ISC,https://github.com/npm/ini#readme/blob/master/LICENSE
+UI,inline-style-parser,0.1.1,inline,MIT,https://github.com/remarkablemark/inline-style-parser#readme/blob/master/LICENSE
+UI,in-publish,2.0.1,in,ISC,https://github.com/iarna/in-publish/blob/master/LICENSE
+UI,inquirer,7.3.3,answers,MIT,https://github.com/SBoudrias/Inquirer.js/blob/master/packages/inquirer/README.md/blob/master/LICENSE
+UI,internal-ip,4.3.0,ipv6,MIT,https://github.com/sindresorhus/internal-ip#readme/blob/master/LICENSE
+UI,internal-slot,1.0.4,slot,MIT,https://github.com/ljharb/internal-slot#readme/blob/master/LICENSE
+UI,invariant,2.2.4,invariant,MIT,https://github.com/zertosh/invariant#readme/blob/master/LICENSE
+UI,ipaddr.js,2.0.1,ipv4,MIT,https://github.com/whitequark/ipaddr.js#readme/blob/master/LICENSE
+UI,is-absolute-url,3.0.3,absolute,MIT,https://github.com/sindresorhus/is-absolute-url#readme/blob/master/LICENSE
+UI,is-alphanumeric,1.0.0,numeric,MIT,https://github.com/arthurvr/is-alphanumeric#readme/blob/master/LICENSE
+UI,is-arguments,1.1.1,js,MIT,https://github.com/inspect-js/is-arguments/blob/master/LICENSE
+UI,isarray,2.0.5,isarray,MIT,https://github.com/juliangruber/isarray/blob/master/LICENSE
+UI,is-boolean-object,1.1.2,ES6,MIT,https://github.com/inspect-js/is-boolean-object#readme/blob/master/LICENSE
+UI,is-directory,0.3.1,directories,MIT,https://github.com/jonschlinkert/is-directory/blob/master/LICENSE
+UI,is-docker,2.2.1,docker,MIT,https://github.com/sindresorhus/is-docker#readme/blob/master/LICENSE
+UI,isexe,2.0.0,isexe,ISC,https://github.com/isaacs/isexe#readme/blob/master/LICENSE
+UI,is-extglob,2.1.1,braces,MIT,https://github.com/jonschlinkert/is-extglob/blob/master/LICENSE
+UI,is-fullwidth-code-point,3.0.0,full,MIT,https://github.com/sindresorhus/is-fullwidth-code-point#readme/blob/master/LICENSE
+UI,is-installed-globally,0.4.0,package,MIT,https://github.com/sindresorhus/is-installed-globally#readme/blob/master/LICENSE
+UI,is-jpg,2.0.0,jpeg,MIT,https://github.com/sindresorhus/is-jpg#readme/blob/master/LICENSE
+UI,is-lambda,1.0.1,hosting,MIT,https://github.com/watson/is-lambda/blob/master/LICENSE
+UI,is-lower-case,1.1.3,lower,MIT,https://github.com/blakeembrey/change-case/tree/master/packages/is-lower-case#readme/blob/master/LICENSE
+UI,is-natural-number,4.0.1,natural,MIT,https://github.com/shinnn/is-natural-number.js#readme/blob/master/LICENSE
+UI,is-negative-zero,2.0.2,negative,MIT,https://github.com/inspect-js/is-negative-zero/blob/master/LICENSE
+UI,is-npm,5.0.0,yarn,MIT,https://github.com/sindresorhus/is-npm#readme/blob/master/LICENSE
+UI,is-path-cwd,2.2.0,cwd,MIT,https://github.com/sindresorhus/is-path-cwd#readme/blob/master/LICENSE
+UI,is-path-inside,3.0.3,inside,MIT,https://github.com/sindresorhus/is-path-inside#readme/blob/master/LICENSE
+UI,is-png,2.0.0,portable,MIT,https://github.com/sindresorhus/is-png#readme/blob/master/LICENSE
+UI,is-relative-url,3.0.0,relative,MIT,https://github.com/sindresorhus/is-relative-url#readme/blob/master/LICENSE
+UI,is-retry-allowed,1.2.0,retries,MIT,https://github.com/sindresorhus/is-retry-allowed#readme/blob/master/LICENSE
+UI,is-root,2.1.0,root,MIT,https://github.com/sindresorhus/is-root#readme/blob/master/LICENSE
+UI,isstream,0.1.2,type,MIT,https://github.com/rvagg/isstream/blob/master/LICENSE
+UI,istanbul-lib-coverage,3.2.0,coverage,BSD 3.0,https://github.com/istanbul/istanbul/blob/master/LICENSE
+UI,istanbul-lib-instrument,5.2.1,istanbul,BSD 3.0,https://github.com/istanbul/istanbul/blob/master/LICENSE
+UI,istanbul-lib-report,3.0.0,report,BSD 3.0,https://github.com/istanbul/istanbul/blob/master/LICENSE
+UI,istanbul-lib-source-maps,4.0.1,sourcemaps,BSD 3.0,https://github.com/istanbul/istanbul/blob/master/LICENSE
+UI,istanbul-reports,3.1.5,reports,BSD 3.0,https://github.com/istanbul/istanbul/blob/master/LICENSE
+UI,is-typed-array,1.1.10,TypedArray,MIT,https://github.com/inspect-js/is-typed-array#readme/blob/master/LICENSE
+UI,is-unc-path,1.0.0,expression,MIT,https://github.com/jonschlinkert/is-unc-path/blob/master/LICENSE
+UI,is-upper-case,1.1.2,upper,MIT,https://github.com/blakeembrey/change-case/tree/master/packages/is-upper-case#readme/blob/master/LICENSE
+UI,is-utf8,0.2.1,charset,MIT,https://github.com/wayfind/is-utf8#readme/blob/master/LICENSE
+UI,is-weakref,1.0.2,weak,MIT,https://github.com/inspect-js/is-weakref#readme/blob/master/LICENSE
+UI,is-windows,1.0.2,cywin,MIT,https://github.com/jonschlinkert/is-windows/blob/master/LICENSE
+UI,is-wsl,2.2.0,wsl,MIT,https://github.com/sindresorhus/is-wsl#readme/blob/master/LICENSE
+UI,iterall,1.3.0,iterator,MIT,https://github.com/leebyron/iterall/blob/master/LICENSE
+UI,jest-changed-files,27.5.1,jest,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest-each,27.5.1,parameterised,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest/environment,27.5.1,environment,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest/fake-timers,27.5.1,fake,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest/reporters,27.5.1,reporters,MIT,https://github.com/jestjs/jestjs/blob/master/LICENSE
+UI,jest/schemas,29.0.0,schemas,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest/source-map,27.5.1,source,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest/test-result,28.1.3,test,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jest/transform,27.5.1,transform,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,jimp/bmp,0.14.0,bmp,MIT,https://github.com/jimp-dev/jimp#readme/blob/master/LICENSE
+UI,jimp/gif,0.14.0,gif,MIT,https://github.com/jimp-dev/jimp#readme/blob/master/LICENSE
+UI,jimp/plugins,0.14.0,plugins,MIT,https://github.com/jimp-dev/jimp#readme/blob/master/LICENSE
+UI,jimp/png,0.14.0,png,MIT,https://github.com/jimp-dev/jimp#readme/blob/master/LICENSE
+UI,jimp/tiff,0.14.0,tiff,MIT,https://github.com/jimp-dev/jimp#readme/blob/master/LICENSE
+UI,jpeg-js,0.4.3,jpg,BSD 3.0,https://github.com/eugeneware/jpeg-js#readme/blob/master/LICENSE
+UI,jridgewell/set-array,1.1.2,jridgewell/set,MIT,https://github.com/jridgewell/set-array#readme/blob/master/LICENSE
+UI,jridgewell/sourcemap-codec,1.4.14,vlq,MIT,https://github.com/jridgewell/sourcemap-codec#readme/blob/master/LICENSE
+UI,jsbn,0.1.1,bignumber,MIT,https://github.com/andyperlitch/jsbn#readme/blob/master/LICENSE
+UI,json2mq,0.2.0,json2mq,MIT,https://github.com/akiran/json2mq/blob/master/LICENSE
+UI,json3,3.3.3,spec,MIT,https://github.com/bestiejs/bestiejs/blob/master/LICENSE
+UI,json5,2.2.3,json5,MIT,https://github.com/json5/json5/blob/master/LICENSE
+UI,jsonfile,6.1.0,write,MIT,https://github.com/jprichardson/node-jsonfile#readme/blob/master/LICENSE
+UI,jsonpointer,5.0.1,jsonpointer,MIT,https://github.com/janl/node-jsonpointer#readme/blob/master/LICENSE
+UI,jsprim,1.4.1,jsprim,MIT,https://github.com/joyent/node-jsprim#readme/blob/master/LICENSE
+UI,jss-plugin-vendor-prefixer,10.9.2,jss,MIT,https://github.com/cssinjs/cssinjs/blob/master/LICENSE
+UI,junk,3.1.0,trash,MIT,https://github.com/sindresorhus/junk#readme/blob/master/LICENSE
+UI,keyv,4.0.3,value,MIT,https://github.com/jaredwray/keyv/blob/master/LICENSE
+UI,language-subtag-registry,0.3.22,bcp47,CC0 1.0,https://github.com/mattcg/language-subtag-registry/blob/master/LICENSE
+UI,last-call-webpack-plugin,3.0.0,modify,MIT,http://github.com/NMFR/last-call-webpack-plugin/blob/master/LICENSE
+UI,leven,3.1.0,levenshtein,MIT,https://github.com/sindresorhus/leven#readme/blob/master/LICENSE
+UI,levn,0.4.1,light,MIT,https://github.com/gkz/levn/blob/master/LICENSE
+UI,lines-and-columns,2.0.3,columns,MIT,https://github.com/eventualbuddha/lines-and-columns#readme/blob/master/LICENSE
+UI,load-bmfont,1.4.1,bitmap,MIT,https://github.com/Jam3/load-bmfont/blob/master/LICENSE
+UI,load-plugin,5.0.0,submodule,MIT,https://github.com/wooorm/load-plugin#readme/blob/master/LICENSE
+UI,lock,1.1.0,lock,MIT,https://github.com/dominictarr/lock/blob/master/LICENSE
+UI,lodash,4.17.21,stdlib,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.assignin,4.2.0,assignin,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.clonedeep,4.5.0,clonedeep,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.debounce,4.0.8,debounce,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.deburr,4.1.0,deburr,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.defaults,4.2.0,defaults,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.every,4.6.0,every,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.flattendeep,4.4.0,flattendeep,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.foreach,4.5.0,foreach,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.isplainobject,4.0.6,isplainobject,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.maxby,4.6.0,maxby,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.memoize,4.1.2,memoize,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.pick,4.4.0,pick,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash._reinterpolate,3.0.0,lodash.,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.reject,4.6.0,reject,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.some,4.6.0,some,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.sortby,4.7.0,sortby,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.templatesettings,4.2.0,templatesettings,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.uniq,4.5.0,uniq,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,lodash.without,4.4.0,without,MIT,https://github.com/lodash/lodash/blob/master/LICENSE
+UI,loglevel,1.7.1,logger,MIT,https://github.com/pimterry/loglevel/blob/master/LICENSE
+UI,longest-streak,2.0.4,length,MIT,https://github.com/wooorm/longest-streak#readme/blob/master/LICENSE
+UI,loose-envify,1.4.0,variables,MIT,https://github.com/zertosh/loose-envify/blob/master/LICENSE
+UI,lpad-align,1.1.2,indent,MIT,https://github.com/kevva/lpad-align#readme/blob/master/LICENSE
+UI,lru-cache,7.14.1,lru,ISC,https://github.com/isaacs/node-lru-cache#readme/blob/master/LICENSE
+UI,make-dir,3.1.0,mkdirp,MIT,https://github.com/sindresorhus/make-dir#readme/blob/master/LICENSE
+UI,makeerror,1.0.12,makeerror,BSD 3.0,https://github.com/daaku/nodejs-makeerror#readme/blob/master/LICENSE
+UI,md5-file,5.0.0,md5sum,MIT,https://github.com/roryrjb/md5-file#readme/blob/master/LICENSE
+UI,md5.js,1.3.5,md5,MIT,https://github.com/crypto-browserify/md5.js/blob/master/LICENSE
+UI,mdast-squeeze-paragraphs,4.0.0,mdast,MIT,https://github.com/syntax-tree/mdast-squeeze-paragraphs#readme/blob/master/LICENSE
+UI,mdn-data,2.0.4,mdn,CC0 1.0,https://github.com/developer/developer/blob/master/LICENSE
+UI,mdurl,1.0.1,mdurl,MIT,https://github.com/markdown-it/mdurl#readme/blob/master/LICENSE
+UI,meant,1.0.3,meant,MIT,https://github.com/watilde/meant#readme/blob/master/LICENSE
+UI,media-typer,0.3.0,media,MIT,https://github.com/jshttp/media-typer#readme/blob/master/LICENSE
+UI,memfs,3.4.12,filesystem,Unlicense,https://github.com/streamich/memfs#readme/blob/master/LICENSE
+UI,memoizee,0.4.15,memoizer,ISC,https://github.com/medikoo/memoizee#readme/blob/master/LICENSE
+UI,memoize-one,4.0.3,memoization,MIT,https://github.com/alexreardon/memoize-one#readme/blob/master/LICENSE
+UI,memory-fs,0.5.0,memory,MIT,https://github.com/webpack/memory-fs/blob/master/LICENSE
+UI,meow,9.0.0,bin,MIT,https://github.com/sindresorhus/meow#readme/blob/master/LICENSE
+UI,merge2,1.4.1,multiple,MIT,https://github.com/teambition/merge2/blob/master/LICENSE
+UI,meros,1.1.4,fetch,MIT,https://github.com/maraisr/meros#readme/blob/master/LICENSE
+UI,methods,1.1.2,methods,MIT,https://github.com/jshttp/methods/blob/master/LICENSE
+UI,micromark,2.11.4,compiler,MIT,https://github.com/micromark/micromark/tree/main#readme/blob/master/LICENSE
+UI,micromark-extension-mdx,0.2.1,micromark,MIT,https://github.com/micromark/micromark-extension-mdx#readme/blob/master/LICENSE
+UI,micromatch,4.0.5,bracket,MIT,https://github.com/micromatch/micromatch/blob/master/LICENSE
+UI,mikaelkristiansson/domready,1.0.11,domready,MIT,https://github.com/mikaelkristiansson/domready/blob/master/LICENSE
+UI,miller-rabin,4.0.1,miller,MIT,https://github.com/indutny/miller-rabin/blob/master/LICENSE
+UI,mime-db,1.52.0,db,MIT,https://github.com/jshttp/mime-db#readme/blob/master/LICENSE
+UI,mimic-fn,2.1.0,mimic,MIT,https://github.com/sindresorhus/mimic-fn#readme/blob/master/LICENSE
+UI,min-document,2.19.0,min,MIT,https://github.com/Raynos/min-document/blob/master/LICENSE
+UI,minimalistic-assert,1.0.1,minimalistic,ISC,https://github.com/calvinmetcalf/minimalistic-assert/blob/master/LICENSE
+UI,minimatch,5.1.2,minimatch,ISC,https://github.com/isaacs/minimatch#readme/blob/master/LICENSE
+UI,minimist,1.2.7,getopt,MIT,https://github.com/minimistjs/minimist/blob/master/LICENSE
+UI,minimist-options,4.1.0,argv,MIT,https://github.com/vadimdemedes/minimist-options#readme/blob/master/LICENSE
+UI,min-indent,1.0.1,indentation,MIT,https://github.com/thejameskyle/min-indent#readme/blob/master/LICENSE
+UI,minipass-collect,1.0.2,minipass,ISC,https://github.com/izs/izs/blob/master/LICENSE
+UI,minipass-sized,1.0.3,size,ISC,https://github.com/isaacs/minipass-sized#readme/blob/master/LICENSE
+UI,mississippi,3.0.0,mississippi,BSD 2.0,https://github.com/maxogden/mississippi#readme/blob/master/LICENSE
+UI,mitt,1.2.0,eventemitter,MIT,https://github.com/developit/mitt/blob/master/LICENSE
+UI,move-concurrently,1.0.1,move,ISC,https://github.com/www/www/blob/master/LICENSE
+UI,multicast-dns,7.2.5,dns,MIT,https://github.com/mafintosh/multicast-dns/blob/master/LICENSE
+UI,multicast-dns-service-types,1.1.0,bonjour,MIT,https://github.com/mafintosh/multicast-dns-service-types/blob/master/LICENSE
+UI,,2.17.0,,MIT,https://github.com/nodejs/nan#readme/blob/master/LICENSE
+UI,nanoid,3.3.4,random,MIT,https://github.com/ai/nanoid#readme/blob/master/LICENSE
+UI,napi-build-utils,1.0.2,prebuild,MIT,https://github.com/inspiredware/napi-build-utils#readme/blob/master/LICENSE
+UI,negotiator,0.6.3,content,MIT,https://github.com/jshttp/negotiator#readme/blob/master/LICENSE
+UI,neo-async,2.6.2,util,MIT,https://github.com/suguru03/neo-async/blob/master/LICENSE
+UI,next-tick,1.1.0,setImmediate,ISC,https://github.com/medikoo/next-tick#readme/blob/master/LICENSE
+UI,nice-try,1.0.5,catch,MIT,https://github.com/electerious/nice-try/blob/master/LICENSE
+UI,nlcst-to-string,2.0.4,nlcst,MIT,https://github.com/syntax-tree/nlcst-to-string#readme/blob/master/LICENSE
+UI,node-abi,2.30.0,electron,MIT,https://github.com/electron/node-abi#readme/blob/master/LICENSE
+UI,node-addon-api,3.2.1,napi,MIT,https://github.com/nodejs/node-addon-api/blob/master/LICENSE
+UI,node-eta,0.9.0,estimated,MIT,https://github.com/titarenko/eta/blob/master/LICENSE
+UI,node-forge,1.3.1,asn,GPL 2.0,https://github.com/digitalbazaar/forge/blob/master/LICENSE
+UI,node-int64,0.4.0,integer,MIT,https://github.com/broofa/node-int64/blob/master/LICENSE
+UI,node-releases,2.0.8,releases,MIT,https://github.com/chicoxyzzy/node-releases#readme/blob/master/LICENSE
+UI,node-sass,8.0.0,libsass,MIT,https://github.com/sass/node-sass/blob/master/LICENSE
+UI,noms,0.0.0,noms,ISC,https://github.com/calvinmetcalf/noms/blob/master/LICENSE
+UI,nopt,5.0.0,nopt,ISC,https://github.com/npm/nopt#readme/blob/master/LICENSE
+UI,normalize-package-data,3.0.3,normalize,BSD 2.0,https://github.com/npm/normalize-package-data#readme/blob/master/LICENSE
+UI,normalize-path,3.0.0,backslash,MIT,https://github.com/jonschlinkert/normalize-path/blob/master/LICENSE
+UI,npmcli/fs,2.1.2,oss,ISC,https://github.com/npm/fs#readme/blob/master/LICENSE
+UI,npmcli/map-workspaces,2.0.3,npmcli,ISC,https://github.com/npm/map-workspaces#readme/blob/master/LICENSE
+UI,npmlog,6.0.2,npmlog,ISC,https://github.com/npm/npmlog#readme/blob/master/LICENSE
+UI,npm-normalize-package-bin,1.0.1,npm,ISC,https://github.com/npm/npm-normalize-package-bin#readme/blob/master/LICENSE
+UI,npm-run-path,4.0.1,run,MIT,https://github.com/sindresorhus/npm-run-path#readme/blob/master/LICENSE
+UI,nprogress,0.2.0,nprogress,MIT,https://github.com/rstacruz/nprogress/blob/master/LICENSE
+UI,nth-check,2.1.1,nth,BSD 2.0,https://github.com/fb55/nth-check/blob/master/LICENSE
+UI,num2fraction,1.2.2,number,MIT,https://github.com/yisibl/num2fraction#readme/blob/master/LICENSE
+UI,nwsapi,2.2.2,css3,MIT,https://github.com/javascript/javascript/blob/master/LICENSE
+UI,oauth-sign,0.9.0,oauth,Apache 2.0,https://github.com/mikeal/oauth-sign#readme/blob/master/LICENSE
+UI,object.entries,1.1.6,Object.values,MIT,https://github.com/es-shims/Object.entries#readme/blob/master/LICENSE
+UI,object.fromentries,2.0.6,Object.entries,MIT,https://github.com/es-shims/Object.fromEntries#readme/blob/master/LICENSE
+UI,object.hasown,1.1.2,hasOwn,MIT,https://github.com/es-shims/Object.hasOwn/blob/master/LICENSE
+UI,object-inspect,1.12.2,util.inspect,MIT,https://github.com/inspect-js/object-inspect/blob/master/LICENSE
+UI,object-is,1.1.5,Object.is,MIT,https://github.com/es-shims/object-is/blob/master/LICENSE
+UI,object-keys,1.1.1,keys,MIT,https://github.com/ljharb/object-keys#readme/blob/master/LICENSE
+UI,object.values,1.1.6,Object.keys,MIT,https://github.com/es-shims/Object.values#readme/blob/master/LICENSE
+UI,obuf,1.1.2,Buffer,MIT,https://github.com/indutny/offset-buffer/blob/master/LICENSE
+UI,omggif,1.0.10,gif89a,MIT,https://github.com/deanm/omggif#readme/blob/master/LICENSE
+UI,on-finished,2.4.1,on,MIT,https://github.com/jshttp/on-finished#readme/blob/master/LICENSE
+UI,on-headers,1.0.2,headers,MIT,https://github.com/jshttp/on-headers#readme/blob/master/LICENSE
+UI,opentracing,0.14.5,opentracing,Apache 2.0,https://github.com/opentracing/opentracing-javascript#readme/blob/master/LICENSE
+UI,optimize-css-assets-webpack-plugin,5.0.8,duplicate,MIT,http://github.com/NMFR/optimize-css-assets-webpack-plugin/blob/master/LICENSE
+UI,optionator,0.9.1,flags,MIT,https://github.com/gkz/optionator/blob/master/LICENSE
+UI,os-browserify,0.3.0,os,MIT,https://github.com/CoderPuppy/os-browserify#readme/blob/master/LICENSE
+UI,package-json,6.5.0,registry,MIT,https://github.com/sindresorhus/package-json#readme/blob/master/LICENSE
+UI,pako,1.0.11,deflate,MIT,https://github.com/nodeca/pako#readme/blob/master/LICENSE
+UI,parse-english,4.2.0,english,MIT,https://github.com/wooorm/parse-english#readme/blob/master/LICENSE
+UI,parse-latin,4.3.0,latin,MIT,https://github.com/wooorm/parse-latin#readme/blob/master/LICENSE
+UI,parse-numeric-range,0.0.2,numbers,ISC,https://github.com/euank/node-parse-numeric-range/blob/master/LICENSE
+UI,parse-passwd,1.0.0,etc,MIT,https://github.com/doowb/parse-passwd/blob/master/LICENSE
+UI,parseqs,0.0.6,parseqs,MIT,https://github.com/get/querystring/blob/master/LICENSE
+UI,parseuri,0.0.6,parseuri,MIT,https://github.com/get/parseuri/blob/master/LICENSE
+UI,parseurl,1.3.3,parseurl,MIT,https://github.com/pillarjs/parseurl#readme/blob/master/LICENSE
+UI,password-prompt,1.1.2,input,WTFPL,https://github.com/jdxcode/password-prompt/blob/master/LICENSE
+UI,path-dirname,1.0.2,dir,MIT,https://github.com/es128/path-dirname#readme/blob/master/LICENSE
+UI,path-exists,4.0.0,exists,MIT,https://github.com/sindresorhus/path-exists#readme/blob/master/LICENSE
+UI,path-is-absolute,1.0.1,paths,MIT,https://github.com/sindresorhus/path-is-absolute#readme/blob/master/LICENSE
+UI,pbkdf2,3.1.2,kdf,MIT,https://github.com/crypto-browserify/pbkdf2/blob/master/LICENSE
+UI,p-cancelable,2.1.1,cancelable,MIT,https://github.com/sindresorhus/p-cancelable#readme/blob/master/LICENSE
+UI,p-defer,3.0.0,defer,MIT,https://github.com/sindresorhus/p-defer#readme/blob/master/LICENSE
+UI,pend,1.2.0,pend,MIT,git://github.com/superjoe30/node-pend.git/blob/master/LICENSE
+UI,p-finally,2.0.1,finally,MIT,https://github.com/sindresorhus/p-finally#readme/blob/master/LICENSE
+UI,physical-cpu-count,2.0.0,cpu,ISC,
+UI,picomatch,2.3.1,match,MIT,https://github.com/micromatch/picomatch/blob/master/LICENSE
+UI,pirates,4.0.5,pirates,MIT,https://github.com/danez/pirates#readme/blob/master/LICENSE
+UI,pixelmatch,4.0.2,comparison,ISC,https://github.com/mapbox/pixelmatch#readme/blob/master/LICENSE
+UI,p-limit,3.1.0,limit,MIT,https://github.com/sindresorhus/p-limit#readme/blob/master/LICENSE
+UI,p-locate,5.0.0,locate,MIT,https://github.com/sindresorhus/p-locate#readme/blob/master/LICENSE
+UI,pngjs,3.4.0,decoder,MIT,https://github.com/lukeapage/pngjs/blob/master/LICENSE
+UI,popperjs/core,2.9.2,popover,MIT,https://github.com/popperjs/popper.js.git/blob/master/LICENSE
+UI,portfinder,1.0.28,ports,MIT,https://github.com/http-party/node-portfinder#readme/blob/master/LICENSE
+UI,posix-character-classes,0.1.1,classes,MIT,https://github.com/jonschlinkert/posix-character-classes/blob/master/LICENSE
+UI,postcss-color-hex-alpha,8.0.4,8,MIT,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-color-hex-alpha#readme/blob/master/LICENSE
+UI,postcss-convert-values,5.1.3,optimisation,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,postcss-custom-media,8.0.2,atrule,MIT,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-custom-media#readme/blob/master/LICENSE
+UI,postcss-custom-properties,12.1.11,csswg,MIT,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-custom-properties#readme/blob/master/LICENSE
+UI,postcss-discard-comments,5.1.2,comments,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,postcss-discard-duplicates,5.1.0,dedupe,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,postcss-double-position-gradients,3.1.2,conic,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-double-position-gradients#readme/blob/master/LICENSE
+UI,postcss-load-config,3.1.4,postcssrc,MIT,https://github.com/postcss/postcss-load-config#readme/blob/master/LICENSE
+UI,postcss-merge-longhand,5.1.7,minify,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,postcss-merge-rules,5.1.3,optimise,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,postcss-minify-font-values,5.1.0,font,MIT,https://github.com/cssnano/cssnano/blob/master/LICENSE
+UI,postcss-overflow-shorthand,3.0.4,overflow,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-overflow-shorthand#readme/blob/master/LICENSE
+UI,postcss-place,7.0.5,aligns,CC0 1.0,https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-place#readme/blob/master/LICENSE
+UI,p-pipe,3.1.0,pipe,MIT,https://github.com/sindresorhus/p-pipe#readme/blob/master/LICENSE
+UI,prebuild-install,6.1.3,binaries,MIT,https://github.com/prebuild/prebuild-install/blob/master/LICENSE
+UI,prelude-ls,1.2.1,livescript,MIT,https://github.com/preludels/preludels/blob/master/LICENSE
+UI,prepend-http,2.0.0,protocol,MIT,https://github.com/sindresorhus/prepend-http#readme/blob/master/LICENSE
+UI,p-retry,4.6.2,retry,MIT,https://github.com/sindresorhus/p-retry#readme/blob/master/LICENSE
+UI,prettier,2.3.2,prettier,MIT,https://github.com/prettier/prettier/blob/master/LICENSE
+UI,pretty-format,29.3.1,pretty,MIT,https://github.com/facebook/jest#readme/blob/master/LICENSE
+UI,process,0.11.10,process,MIT,https://github.com/shtylman/node-process#readme/blob/master/LICENSE
+UI,proc-log,2.0.1,proc,ISC,https://github.com/npm/proc-log#readme/blob/master/LICENSE
+UI,promise,8.3.0,promise,MIT,https://github.com/then/promise#readme/blob/master/LICENSE
+UI,prompts,2.4.2,prompts,MIT,https://github.com/terkelg/prompts#readme/blob/master/LICENSE
+UI,proper-lockfile,4.1.2,locking,MIT,https://github.com/moxystudio/node-proper-lockfile/blob/master/LICENSE
+UI,propose,0.0.5,typo,MIT,https://github.com/liushuping/propose#readme/blob/master/LICENSE
+UI,prop-types-extra,1.1.1,proptypes,MIT,https://github.com/react-bootstrap/prop-types-extra#readme/blob/master/LICENSE
+UI,prr,1.0.1,properties,MIT,https://github.com/rvagg/prr/blob/master/LICENSE
+UI,pseudomap,1.0.2,pseudomap,ISC,https://github.com/isaacs/pseudomap#readme/blob/master/LICENSE
+UI,psl,1.9.0,publicsuffixlist,MIT,https://github.com/lupomontero/psl#readme/blob/master/LICENSE
+UI,p-timeout,3.2.0,timeout,MIT,https://github.com/sindresorhus/p-timeout#readme/blob/master/LICENSE
+UI,p-try,2.2.0,try,MIT,https://github.com/sindresorhus/p-try#readme/blob/master/LICENSE
+UI,public-encrypt,4.0.3,public,MIT,https://github.com/crypto-browserify/publicEncrypt/blob/master/LICENSE
+UI,pumpify,1.5.1,duplexify,MIT,https://github.com/mafintosh/pumpify/blob/master/LICENSE
+UI,pupa,2.1.1,formatting,MIT,https://github.com/sindresorhus/pupa#readme/blob/master/LICENSE
+UI,qs,6.7.0,qs,BSD 3.0,https://github.com/ljharb/qs/blob/master/LICENSE
+UI,querystring,0.2.1,query,MIT,https://github.com/Gozala/querystring#readme/blob/master/LICENSE
+UI,query-string,6.14.1,querystring,MIT,https://github.com/sindresorhus/query-string#readme/blob/master/LICENSE
+UI,queue-microtask,1.2.3,immediate,MIT,https://github.com/feross/queue-microtask/blob/master/LICENSE
+UI,quick-lru,5.1.1,quick,MIT,https://github.com/sindresorhus/quick-lru#readme/blob/master/LICENSE
+UI,raf,3.4.1,polyfill,MIT,https://github.com/chrisdickinson/raf#readme/blob/master/LICENSE
+UI,ramda,0.21.0,functional,MIT,https://github.com/ramdajs/ramdajs/blob/master/LICENSE
+UI,raw-body,2.5.1,raw,MIT,https://github.com/stream-utils/raw-body#readme/blob/master/LICENSE
+UI,rc,1.2.8,rc,Apache 2.0,https://github.com/dominictarr/rc#readme/blob/master/LICENSE
+UI,rc-component/mini-decimal,1.0.1,decimal,MIT,https://github.com/react-component/mini-decimal/blob/master/LICENSE
+UI,react-animejs,0.5.6,anime,MIT,https://github.com/jmdisuanco/jmdisuanco/blob/master/LICENSE
+UI,react-bootstrap,1.6.1,ecosystem,MIT,https://github.com/react-bootstrap/react-bootstrap/blob/master/LICENSE
+UI,react-ga,3.3.1,GA,Apache 2.0,https://github.com/react-ga/react-ga/blob/master/LICENSE
+UI,react-gtm-module,2.0.11,reactjs,MIT,https://github.com/alinemorelli/react-gtm#readme/blob/master/LICENSE
+UI,react-helmet,5.2.1,nfl,MIT,https://github.com/nfl/react-helmet#readme/blob/master/LICENSE
+UI,react-router,5.3.4,router,MIT,https://github.com/remix-run/react-router#readme/blob/master/LICENSE
+UI,react-transition-group,4.4.5,transition,BSD 3.0,https://github.com/reactjs/react-transition-group#readme/blob/master/LICENSE
+UI,read,1.0.7,read,ISC,https://github.com/npm/read#readme/blob/master/LICENSE
+UI,readable-web-to-node-stream,3.0.1,web,MIT,https://github.com/Borewit/readable-web-to-node-stream#readme/blob/master/LICENSE
+UI,recursive-readdir,2.2.3,lister,MIT,https://github.com/jergason/recursive-readdir#readme/blob/master/LICENSE
+UI,redent,3.0.0,strip,MIT,https://github.com/sindresorhus/redent#readme/blob/master/LICENSE
+UI,redux,4.1.0,reducer,MIT,https://github.com/redux/redux/blob/master/LICENSE
+UI,redux-thunk,2.3.0,thunk,MIT,https://github.com/reduxjs/redux-thunk/blob/master/LICENSE
+UI,regex-parser,2.2.11,expressions,MIT,https://github.com/IonicaBizau/regex-parser.js/blob/master/LICENSE
+UI,regexpp,3.2.0,regular,MIT,https://github.com/mysticatea/regexpp#readme/blob/master/LICENSE
+UI,regexpu-core,5.2.2,desugaring,MIT,https://github.com/mths/mths/blob/master/LICENSE
+UI,registry-auth-token,4.2.1,conf,MIT,https://github.com/rexxars/registry-auth-token#readme/blob/master/LICENSE
+UI,regjsgen,0.7.1,generate,MIT,https://github.com/bnjmnt4n/regjsgen/blob/master/LICENSE
+UI,regjsparser,0.9.1,regjsparser,BSD 2.0,https://github.com/jviereck/regjsparser/blob/master/LICENSE
+UI,remark,10.0.1,remark,MIT,https://github.com/remark/remark/blob/master/LICENSE
+UI,renderkid,3.0.0,renderkid,MIT,https://github.com/AriaMinaei/RenderKid#readme/blob/master/LICENSE
+UI,repeat-string,1.6.1,fastest,MIT,https://github.com/jonschlinkert/repeat-string/blob/master/LICENSE
+UI,require-main-filename,2.0.0,shim,ISC,https://github.com/yargs/require-main-filename#readme/blob/master/LICENSE
+UI,resize-observer-polyfill,1.5.1,resize,MIT,https://github.com/que-etc/resize-observer-polyfill/blob/master/LICENSE
+UI,resolve.exports,1.1.0,exports,MIT,https://github.com/lukeed/resolve.exports#readme/blob/master/LICENSE
+UI,restart/hooks,0.3.27,hooks,MIT,https://github.com/react-restart/hooks#readme/blob/master/LICENSE
+UI,restore-cursor,3.1.0,quit,MIT,https://github.com/sindresorhus/restore-cursor#readme/blob/master/LICENSE
+UI,retext,5.0.0,retext,MIT,https://github.com/retextjs/retext/blob/master/LICENSE
+UI,rimraf,3.0.2,rimraf,ISC,https://github.com/isaacs/rimraf#readme/blob/master/LICENSE
+UI,rollup,2.79.1,bundler,MIT,https://github.com/rollupjs/rollupjs/blob/master/LICENSE
+UI,rollup-plugin-terser,7.0.2,rollup,MIT,git+https://github.com/TrySound/rollup-plugin-terser.git/blob/master/LICENSE
+UI,rx,4.1.0,FRP,Apache 2.0,https://github.com/Reactive-Extensions/RxJS/blob/master/LICENSE
+UI,rxjs,6.6.7,RxJS,Apache 2.0,https://github.com/rxjs/rxjs/blob/master/LICENSE
+UI,rx-lite,4.0.8,Reactive,MIT,https://github.com/Reactive-Extensions/RxJS/blob/master/LICENSE
+UI,safer-buffer,2.1.2,safer,MIT,https://github.com/ChALkeR/safer-buffer#readme/blob/master/LICENSE
+UI,safe-regex,1.1.0,exponential,MIT,https://github.com/davisjam/safe-regex/blob/master/LICENSE
+UI,sass-graph,4.0.1,graph,MIT,https://github.com/xzyfer/sass-graph#readme/blob/master/LICENSE
+UI,sax,1.2.4,sax,ISC,https://github.com/isaacs/sax-js#readme/blob/master/LICENSE
+UI,saxes,5.0.1,saxes,ISC,https://github.com/lddubeau/saxes#readme/blob/master/LICENSE
+UI,scroll-into-view-if-needed,3.0.3,if,MIT,https://github.com/scroll-into-view/scroll-into-view/blob/master/LICENSE
+UI,scss-tokenizer,0.4.3,tokenizer,MIT,https://github.com/sasstools/scss-tokenizer/blob/master/LICENSE
+UI,section-matter,1.0.0,section,MIT,https://github.com/jonschlinkert/section-matter/blob/master/LICENSE
+UI,seek-bzip,1.0.6,seek,MIT,https://github.com/cscott/seek-bzip#readme/blob/master/LICENSE
+UI,semver,7.3.8,semver,ISC,https://github.com/npm/node-semver#readme/blob/master/LICENSE
+UI,serialize-javascript,6.0.0,serialization,BSD 3.0,https://github.com/yahoo/serialize-javascript/blob/master/LICENSE
+UI,serve-index,1.9.1,serve,MIT,https://github.com/expressjs/serve-index#readme/blob/master/LICENSE
+UI,setimmediate,1.0.5,setimmediate,MIT,https://github.com/yuzujs/setImmediate#readme/blob/master/LICENSE
+UI,sha.js,2.4.11,sha.js,MIT,https://github.com/crypto-browserify/sha.js/blob/master/LICENSE
+UI,shallowequal,1.1.0,shallow,MIT,https://github.com/dashed/shallowequal#readme/blob/master/LICENSE
+UI,signup,0.1.0,signup,MIT,https://github.com/perfectapi/signup/issues/blob/master/LICENSE
+UI,simple-swizzle,0.2.2,arguments,MIT,https://github.com/qix-/node-simple-swizzle#readme/blob/master/LICENSE
+UI,sindresorhus/slugify,1.1.2,slugify,MIT,https://github.com/sindresorhus/slugify#readme/blob/master/LICENSE
+UI,sindresorhus/transliterate,0.1.2,transliteration,MIT,https://github.com/sindresorhus/transliterate#readme/blob/master/LICENSE
+UI,single-trailing-newline,1.0.0,trailing,MIT,https://github.com/johnotander/single-trailing-newline/blob/master/LICENSE
+UI,sinonjs/commons,1.8.6,commons,BSD 3.0,https://github.com/sinonjs/commons#readme/blob/master/LICENSE
+UI,sitemap,1.13.0,sitemap.xml,MIT,https://github.com/ekalinin/sitemap.js#readme/blob/master/LICENSE
+UI,slash,4.0.0,seperator,MIT,https://github.com/sindresorhus/slash#readme/blob/master/LICENSE
+UI,slugify,1.5.3,slug,MIT,https://github.com/simov/slugify/blob/master/LICENSE
+UI,smart-buffer,4.2.0,smart,MIT,https://github.com/JoshGlazebrook/smart-buffer//blob/master/LICENSE
+UI,snapdragon,0.8.2,snapdragon,MIT,https://github.com/here-be/snapdragon/blob/master/LICENSE
+UI,snapdragon-node,2.1.1,compile,MIT,https://github.com/here-be/snapdragon-node/blob/master/LICENSE
+UI,socket.io-adapter,2.1.0,socket.io,MIT,https://github.com/socketio/socket.io-adapter#readme/blob/master/LICENSE
+UI,sockjs,0.3.24,websocket,MIT,https://github.com/sockjs/sockjs-node/blob/master/LICENSE
+UI,source-map-url,0.4.1,sourceMappingURL,MIT,https://github.com/lydell/source-map-url#readme/blob/master/LICENSE
+UI,spdx-correct,3.1.1,law,Apache 2.0,https://github.com/jslicense/spdx-correct.js#readme/blob/master/LICENSE
+UI,spdx-exceptions,2.3.0,spdx,CC-BY-3.0,https://github.com/kemitchell/spdx-exceptions.json#readme/blob/master/LICENSE
+UI,spdx-license-ids,3.0.9,license,CC0 1.0,https://github.com/jslicense/spdx-license-ids#readme/blob/master/LICENSE
+UI,spdy,4.0.2,spdy,MIT,https://github.com/indutny/node-spdy/blob/master/LICENSE
+UI,spdy-transport,3.0.0,http2,MIT,https://github.com/spdy-http2/spdy-transport/blob/master/LICENSE
+UI,sprintf-js,1.0.3,sprintf,BSD 3.0,https://github.com/alexei/sprintf.js#readme/blob/master/LICENSE
+UI,sshpk,1.16.1,sshpk,MIT,https://github.com/arekinath/node-sshpk#readme/blob/master/LICENSE
+UI,static-extend,0.1.2,ctor,MIT,https://github.com/jonschlinkert/static-extend/blob/master/LICENSE
+UI,static-site-generator-webpack-plugin,3.4.2,static,MIT,https://github.com/markdalgleish/static-site-generator-webpack-plugin/blob/master/LICENSE
+UI,stdout-stream,1.4.1,stdout,MIT,https://github.com/mafintosh/stdout-stream#readme/blob/master/LICENSE
+UI,strict-uri-encode,2.0.0,encode,MIT,https://github.com/kevva/strict-uri-encode#readme/blob/master/LICENSE
+UI,string.prototype.trimend,1.0.6,es7,MIT,https://github.com/es-shims/String.prototype.trimEnd#readme/blob/master/LICENSE
+UI,string-similarity,1.2.2,similar,ISC,https://github.com/aceakash/string-similarity#readme/blob/master/LICENSE
+UI,strip-ansi,7.0.1,trim,MIT,https://github.com/chalk/strip-ansi#readme/blob/master/LICENSE
+UI,strip-bom,4.0.0,bom,MIT,https://github.com/sindresorhus/strip-bom#readme/blob/master/LICENSE
+UI,strip-bom-string,1.0.0,byte,MIT,https://github.com/jonschlinkert/strip-bom-string/blob/master/LICENSE
+UI,strip-comments,2.0.1,apl,MIT,https://github.com/jonschlinkert/strip-comments/blob/master/LICENSE
+UI,strtok3,6.0.8,reader,MIT,https://github.com/Borewit/strtok3#readme/blob/master/LICENSE
+UI,stylis,4.1.3,stylis,MIT,https://github.com/thysultan/stylis.js/blob/master/LICENSE
+UI,subscriptions-transport-ws,0.9.19,subscriptions,MIT,https://github.com/apollostack/subscriptions-transport-ws#readme/blob/master/LICENSE
+UI,supports-preserve-symlinks-flag,1.0.0,flag,MIT,https://github.com/inspect-js/node-supports-preserve-symlinks-flag#readme/blob/master/LICENSE
+UI,svgr/plugin-jsx,5.5.0,svgr,MIT,https://github.com/react-svgr/react-svgr/blob/master/LICENSE
+UI,symbol-observable,4.0.0,observable,MIT,https://github.com/blesh/symbol-observable#readme/blob/master/LICENSE
+UI,table,5.4.6,text,BSD 3.0,https://github.com/gajus/table#readme/blob/master/LICENSE
+UI,tailwindcss,3.2.4,tailwindcss,MIT,https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE
+UI,tapable,2.2.1,tapable,MIT,https://github.com/webpack/tapable/blob/master/LICENSE
+UI,tar,6.1.13,tar,ISC,https://github.com/isaacs/node-tar#readme/blob/master/LICENSE
+UI,temp-dir,2.0.0,tmpdir,MIT,https://github.com/sindresorhus/temp-dir#readme/blob/master/LICENSE
+UI,tempfile,2.0.0,temporary,MIT,https://github.com/sindresorhus/tempfile#readme/blob/master/LICENSE
+UI,terminal-link,2.1.1,hyperlink,MIT,https://github.com/sindresorhus/terminal-link#readme/blob/master/LICENSE
+UI,terser,5.16.1,terser,BSD 2.0,https://github.com/terser/terser/blob/master/LICENSE
+UI,terser-webpack-plugin,5.3.6,uglify,MIT,https://github.com/webpack-contrib/terser-webpack-plugin/blob/master/LICENSE
+UI,test-exclude,6.0.0,include,ISC,https://github.com/istanbul/istanbul/blob/master/LICENSE
+UI,testing-library/dom,8.19.1,ui,MIT,https://github.com/testing-library/dom-testing-library#readme/blob/master/LICENSE
+UI,throat,6.0.2,aplus,MIT,https://github.com/ForbesLindesay/throat#readme/blob/master/LICENSE
+UI,throttle-debounce,5.0.0,throttle,MIT,https://github.com/niksy/throttle-debounce#readme/blob/master/LICENSE
+UI,timers-ext,0.1.7,delay,ISC,https://github.com/medikoo/timers-ext#readme/blob/master/LICENSE
+UI,timm,1.7.1,immutability,MIT,https://github.com/guigrpa/guigrpa/blob/master/LICENSE
+UI,tiny-warning,1.0.3,warn,MIT,git+https://github.com/alexreardon/tiny-warning.git/blob/master/LICENSE
+UI,tmp,0.2.1,tmp,MIT,http://github.com/raszi/node-tmp/blob/master/LICENSE
+UI,tmpl,1.0.5,tmpl,BSD 3.0,https://github.com/daaku/nodejs-tmpl/blob/master/LICENSE
+UI,to-arraybuffer,1.0.1,to,MIT,https://github.com/jhiesey/to-arraybuffer#readme/blob/master/LICENSE
+UI,toggle-selection,1.0.6,toggle,MIT,https://github.com/sudodoki/toggle-selection#readme/blob/master/LICENSE
+UI,toidentifier,1.0.1,toidentifier,MIT,https://github.com/component/toidentifier#readme/blob/master/LICENSE
+UI,tokenizer/token,0.1.1,interface,MIT,https://github.com/Borewit/tokenizer-token#readme/blob/master/LICENSE
+UI,to-object-path,0.3.0,nested,MIT,https://github.com/jonschlinkert/to-object-path/blob/master/LICENSE
+UI,tootallnate/once,2.0.0,tootallnate/once,MIT,https://github.com/TooTallNate/once#readme/blob/master/LICENSE
+UI,to-readable-stream,2.1.0,readablestream,MIT,https://github.com/sindresorhus/to-readable-stream#readme/blob/master/LICENSE
+UI,tough-cookie,4.1.2,cookie,BSD 3.0,https://github.com/salesforce/tough-cookie/blob/master/LICENSE
+UI,to-vfile,7.2.3,vfile,MIT,https://github.com/vfile/to-vfile#readme/blob/master/LICENSE
+UI,tr46,2.1.0,tr46,MIT,https://github.com/jsdom/tr46#readme/blob/master/LICENSE
+UI,traverse,0.6.6,walk,MIT,https://github.com/ljharb/js-traverse/blob/master/LICENSE
+UI,trim-newlines,3.0.1,newline,MIT,https://github.com/sindresorhus/trim-newlines#readme/blob/master/LICENSE
+UI,trim-repeated,1.0.0,collapse,MIT,https://github.com/sindresorhus/trim-repeated#readme/blob/master/LICENSE
+UI,trim-trailing-lines,1.1.4,final,MIT,https://github.com/wooorm/trim-trailing-lines#readme/blob/master/LICENSE
+UI,trough,2.1.0,ware,MIT,https://github.com/wooorm/trough#readme/blob/master/LICENSE
+UI,true-case-path,2.2.1,true,Apache 2.0,https://github.com/Profiscience/true-case-path#readme/blob/master/LICENSE
+UI,tsconfig-paths,3.14.1,tsconfig,MIT,https://github.com/dividab/tsconfig-paths#readme/blob/master/LICENSE
+UI,ts-invariant,0.8.2,assertion,MIT,https://github.com/apollographql/invariant-packages/blob/master/LICENSE
+UI,tslib,2.4.1,Microsoft,BSD,https://github.com/microsoft/tslib/blob/main/LICENSE.txt
+UI,tsutils,3.21.0,ts,MIT,https://github.com/ajafff/tsutils#readme/blob/master/LICENSE
+UI,tunnel-agent,0.6.0,tunnel,Apache 2.0,https://github.com/mikeal/tunnel-agent#readme/blob/master/LICENSE
+UI,turist/time,0.0.1,time,MIT,https://github.com/turist-cloud/time#readme/blob/master/LICENSE
+UI,tweetnacl,0.14.5,cryptography,Unlicense,https://github.com/tweetnacl/tweetnacl/blob/master/LICENSE
+UI,type,2.5.0,coercion,ISC,https://github.com/medikoo/type#readme/blob/master/LICENSE
+UI,typedarray,0.0.6,DataView,MIT,https://github.com/es-shims/typedarray/blob/master/LICENSE
+UI,typedarray-to-buffer,3.1.5,typed,MIT,https://github.com/feross/feross/blob/master/LICENSE
+UI,type-detect,4.0.8,typeof,MIT,https://github.com/chaijs/type-detect#readme/blob/master/LICENSE
+UI,types/aria-query,5.0.1,aria,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/aria-query/blob/master/LICENSE
+UI,types/cacheable-request,6.0.2,cacheable,MIT,
+UI,types/common-tags,1.8.1,common,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/common-tags/blob/master/LICENSE
+UI,types/configstore,2.1.1,configstore,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/configstore/blob/master/LICENSE
+UI,types/cors,2.8.11,cors,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cors/blob/master/LICENSE
+UI,types/debug,4.1.7,debug,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/debug/blob/master/LICENSE
+UI,types/graceful-fs,4.1.5,graceful,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/graceful-fs/blob/master/LICENSE
+UI,types/keyv,3.1.2,keyv,MIT,
+UI,types/lodash,4.14.171,lodash,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash/blob/master/LICENSE
+UI,types/minimist,1.2.2,minimist,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/minimist/blob/master/LICENSE
+UI,types/parse5,5.0.3,parse5,MIT,https://github.com/www/www/blob/master/LICENSE
+UI,types/q,1.5.5,q,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/q/blob/master/LICENSE
+UI,types/range-parser,1.2.4,range,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/range-parser/blob/master/LICENSE
+UI,types/reach__router,1.3.8,reach,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/reach__router/blob/master/LICENSE
+UI,types/readable-stream,2.3.10,readable,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/readable-stream/blob/master/LICENSE
+UI,types/responselike,1.0.0,responselike,MIT,
+UI,types/scheduler,0.16.2,scheduler,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/scheduler/blob/master/LICENSE
+UI,types/sockjs,0.3.33,sockjs,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/sockjs/blob/master/LICENSE
+UI,types/supports-color,8.1.1,supports,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/supports-color/blob/master/LICENSE
+UI,types/testing-library__jest-dom,5.14.5,testing,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/testing-library__jest-dom/blob/master/LICENSE
+UI,types/trusted-types,2.0.2,trusted,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/trusted-types/blob/master/LICENSE
+UI,types/unist,2.0.5,unist,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/unist/blob/master/LICENSE
+UI,types/warning,3.0.0,warning,MIT,https://github.com/www/www/blob/master/LICENSE
+UI,types/ws,8.5.4,ws,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ws/blob/master/LICENSE
+UI,types/yargs,17.0.19,yargs,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/yargs/blob/master/LICENSE
+UI,types/yoga-layout,1.9.2,yoga,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/yoga-layout/blob/master/LICENSE
+UI,types/zen-observable,0.8.3,zen,MIT,https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/zen-observable/blob/master/LICENSE
+UI,unbox-primitive,1.0.2,boxed,MIT,https://github.com/ljharb/unbox-primitive#readme/blob/master/LICENSE
+UI,unherit,1.1.3,super,MIT,https://github.com/wooorm/unherit#readme/blob/master/LICENSE
+UI,unified-engine,10.0.1,processor,MIT,https://github.com/unifiedjs/unified-engine#readme/blob/master/LICENSE
+UI,universalify,2.0.0,native,MIT,https://github.com/RyanZim/universalify#readme/blob/master/LICENSE
+UI,unpipe,1.0.0,unpipe,MIT,https://github.com/stream-utils/unpipe/blob/master/LICENSE
+UI,unquote,1.1.1,unquote,MIT,https://github.com/lakenen/node-unquote/blob/master/LICENSE
+UI,unset-value,1.0.0,delete,MIT,https://github.com/jonschlinkert/unset-value/blob/master/LICENSE
+UI,untildify,4.0.0,expansion,MIT,https://github.com/sindresorhus/untildify#readme/blob/master/LICENSE
+UI,upath,1.2.0,unix,MIT,http://github.com/anodynos/upath//blob/master/LICENSE
+UI,update-notifier,5.1.0,update,BSD 2.0,https://github.com/yeoman/update-notifier#readme/blob/master/LICENSE
+UI,uri-js,4.4.1,IRI,BSD 2.0,https://github.com/garycourt/uri-js/blob/master/LICENSE
+UI,url-join,1.1.0,join,MIT,https://github.com/jfromaniello/url-join#readme/blob/master/LICENSE
+UI,use,3.1.1,use,MIT,https://github.com/jonschlinkert/use/blob/master/LICENSE
+UI,util-deprecate,1.0.2,deprecate,MIT,https://github.com/TooTallNate/util-deprecate/blob/master/LICENSE
+UI,uuid,8.3.2,guid,MIT,https://github.com/uuidjs/uuid#readme/blob/master/LICENSE
+UI,valid-url,1.0.9,valid,MIT,git://github.com/ogt/valid-url.git/blob/master/LICENSE
+UI,vary,1.1.2,res,MIT,https://github.com/jshttp/vary#readme/blob/master/LICENSE
+UI,vfile,5.3.4,virtual,MIT,https://github.com/vfile/vfile#readme/blob/master/LICENSE
+UI,w3c-hr-time,1.0.2,w3c,MIT,https://github.com/jsdom/w3c-hr-time/blob/master/LICENSE
+UI,warning,4.0.3,facebook,MIT,https://github.com/BerkeleyTrue/warning/blob/master/LICENSE
+UI,watchpack,2.4.0,watchpack,MIT,https://github.com/webpack/watchpack/blob/master/LICENSE
+UI,webassemblyjs/floating-point-hex-parser,1.9.0,floating,MIT,https://github.com/xtuc/webassemblyjs#readme/blob/master/LICENSE
+UI,webassemblyjs/ieee754,1.9.0,ieee754,MIT,https://github.com/xtuc/webassemblyjs#readme/blob/master/LICENSE
+UI,webassemblyjs/leb128,1.9.0,leb128,Apache 2.0,https://github.com/xtuc/webassemblyjs#readme/blob/master/LICENSE
+UI,webassemblyjs/utf8,1.9.0,utf8,MIT,https://github.com/xtuc/webassemblyjs#readme/blob/master/LICENSE
+UI,webassemblyjs/wasm-edit,1.9.0,wasm,MIT,https://github.com/xtuc/webassemblyjs#readme/blob/master/LICENSE
+UI,web-namespaces,1.1.4,platform,MIT,https://github.com/wooorm/web-namespaces#readme/blob/master/LICENSE
+UI,webpack-dev-middleware,5.3.3,middleware,MIT,https://github.com/webpack/webpack-dev-middleware/blob/master/LICENSE
+UI,webpack-hot-middleware,2.25.0,hmr,MIT,https://github.com/webpack-contrib/webpack-hot-middleware#readme/blob/master/LICENSE
+UI,which,2.0.2,which,ISC,https://github.com/npm/node-which#readme/blob/master/LICENSE
+UI,which-boxed-primitive,1.0.2,primitive,MIT,https://github.com/inspect-js/which-boxed-primitive#readme/blob/master/LICENSE
+UI,wide-align,1.1.5,double,ISC,https://github.com/iarna/wide-align#readme/blob/master/LICENSE
+UI,word-wrap,1.2.3,carriage,MIT,https://github.com/jonschlinkert/word-wrap/blob/master/LICENSE
+UI,workbox-background-sync,6.5.4,workboxjs,MIT,https://github.com/GoogleChrome/workbox/blob/master/LICENSE
+UI,wrap-ansi,7.0.0,break,MIT,https://github.com/chalk/wrap-ansi#readme/blob/master/LICENSE
+UI,wrappy,1.0.2,wrappy,ISC,https://github.com/npm/wrappy/blob/master/LICENSE
+UI,write-file-atomic,3.0.3,atomic,ISC,https://github.com/npm/write-file-atomic/blob/master/LICENSE
+UI,wry/context,0.6.0,wry/context,MIT,https://github.com/benjamn/wryware/blob/master/LICENSE
+UI,wry/equality,0.5.1,wry/equality,MIT,https://github.com/benjamn/wryware/blob/master/LICENSE
+UI,ws,8.11.0,Push,MIT,https://github.com/websockets/ws/blob/master/LICENSE
+UI,xdg-basedir,4.0.0,base,MIT,https://github.com/sindresorhus/xdg-basedir#readme/blob/master/LICENSE
+UI,x-is-string,0.1.0,x,MIT,https://github.com/Matt-Esch/x-is-string/blob/master/LICENSE
+UI,xmlbuilder,4.2.1,xmlbuilder,MIT,http://github.com/oozcitak/xmlbuilder-js/blob/master/LICENSE
+UI,xmlhttprequest-ssl,1.6.3,ajax,MIT,https://github.com/mjwwit/node-XMLHttpRequest#readme/blob/master/LICENSE
+UI,xml-parse-from-string,1.0.1,fallback,MIT,https://github.com/Jam3/xml-parse-from-string/blob/master/LICENSE
+UI,xstate,4.22.0,state,MIT,https://github.com/statelyai/xstate/tree/main/packages/core#readme/blob/master/LICENSE
+UI,xtuc/long,4.2.2,math,Apache 2.0,https://github.com/dcodeIO/long.js#readme/blob/master/LICENSE
+UI,y18n,5.0.8,internationalization,ISC,https://github.com/yargs/y18n/blob/master/LICENSE
+UI,yallist,4.0.0,yallist,ISC,https://github.com/isaacs/yallist#readme/blob/master/LICENSE
+UI,yargs,17.6.2,args,MIT,https://github.com/yargs/yargs/blob/master/LICENSE
+UI,yauzl,2.10.0,zip,MIT,https://github.com/thejoshwolfe/yauzl/blob/master/LICENSE
+UI,yeast,0.1.2,id,MIT,https://github.com/unshiftio/yeast/blob/master/LICENSE
+UI,yn,3.1.1,yes,MIT,https://github.com/sindresorhus/yn#readme/blob/master/LICENSE
+UI,zwitch,1.0.5,switch,MIT,https://github.com/wooorm/zwitch#readme/blob/master/LICENSE

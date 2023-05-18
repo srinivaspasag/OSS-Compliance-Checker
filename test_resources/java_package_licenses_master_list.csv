@@ -1,0 +1,805 @@
+Platform,Package Name,Package Version,Package_Family,License,License URL
+Java,aalto-xml,1.0.0,com.fasterxml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,aggs-matrix-stats,7.7.1,org.elasticsearch.plugin,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,aircompressor,0.1,io.airlift,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Amazon Redshift JDBC Driver,2.1.0.9,com.amazon.redshift,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,An open source Java toolkit for Amazon S3,0.9.0,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Animal Sniffer Annotations,1.19,org.codehaus.mojo,MIT license,https://opensource.org/license/mit/
+Java,ANTLR 3 Runtime,3.5.2,org.antlr,BSD licence,
+Java,AOP alliance,1,org.kie.modules,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,aopalliance version 1.0 repackaged as a module,2.6.1,org.glassfish.hk2.external,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,Apache Ant Core,1.9.1,net.ssehub.easy.instantiation,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Ant Launcher,1.9.1,org.apache.ant,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Avro,1.10.2,org.apache.avro,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons BeanUtils,1.9.4,org.kie.modules,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons Codec,1.15,org.eclipse.birt.runtime.3_7_1,Eclipse Public License - v 1.0,
+Java,Apache Commons Collections,4.4,org.wso2.orbit.org.apache.commons,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons Compress,1.2,org.wso2.orbit.org.apache.commons,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons Crypto,1.0.0,org.apache.commons,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons CSV,1.6,com.walterjwhite.java.modules.csv.modules,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons DbUtils,1.7,commons-dbutils,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons FileUpload,1.4,com.liferay.org.apache.commons.fileupload,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons IO,2.7,io.github.1tchy.java9modular.org.apache.commons,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons Lang,3.9,org.wso2.orbit.org.apache.commons,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons Logging,1.2,org.apache.ant,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons Math,3.6.1,org.kie.modules,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Commons Net,3.7.2,org.apache.ant,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons Pool,2.8.0,org.apache.commons,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Commons Text,1.8,org.bedework.deploy,Apache License Version 2.0,
+Java,Apache Curator,2.12.0,org.apache.curator,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Derby Database Engine and Embedded JDBC Driver,10.14.2.0,org.apache.derby,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Directory API ASN.1 API,1.0.0-M20,org.apache.directory.api,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Directory LDAP API Utilities,1.0.0-M20,org.apache.directory.api,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache FontBox,2.0.22,org.apache.pdfbox,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache FreeMarker,2.3.31,org.apache.camel.quarkus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Geronimo JCache Spec 1.0,1.0-alpha-1,org.apache.geronimo.specs,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Groovy,3.0.13,org.apache.groovy,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Hadoop Annotations,2.7.3,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop Auth,2.7.3,org.apache.oozie,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop Client,2.7.1,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop Common,2.7.3,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop Distributed Copy,2.7.1,org.apache.oozie,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Hadoop HDFS,2.2.0,org.apache.hadoop.contrib,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN API,3.1.0,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN ApplicationHistoryService,3.1.0,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN Common,3.1.0,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN Registry,3.1.0,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN ResourceManager,3.1.0,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN Server Common,3.1.0,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Hadoop YARN Web Proxy,3.1.0,org.apache.hadoop,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase - Client,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase - Common,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase - Hadoop Compatibility,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache HBase - Hadoop Two Compatibility,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache HBase - HTTP,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase - MapReduce,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase - Metrics API,2.0.0-alpha4,org.apache.nifi,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache HBase - Metrics Implementation,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache HBase - Prefix Tree,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache HBase - Procedure,2.0.0-alpha4,org.apache.hbase,Unknown,
+Java,Apache HBase - Protocol,2.0.0-alpha4,org.apache.hbase,Unknown,
+Java,Apache HBase - Replication,2.0.0-alpha4,org.apache.hbase,Unknown,
+Java,Apache HBase - Server,2.0.0-alpha4,org.apache.hbase,Unknown,
+Java,Apache HBase - Shaded Protocol,2.0.0-alpha4,org.apache.hbase,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase Patched & Relocated (Shaded) Protobuf,1.0.1,ch.cern.hbase.thirdparty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase Relocated (Shaded) Netty Libs,1.0.1,org.apache.hbase.thirdparty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HBase Relocated (Shaded) Third-party Miscellaneous Libs,1.0.1,org.apache.hbase.thirdparty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HttpAsyncClient,4.1.5,org.apache.httpcomponents,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache HttpClient Mime,4.5.12,org.apache.httpcomponents,Unknown,
+Java,Apache HttpClient,4.5.12,io.quarkus,Unknown,
+Java,Apache HttpCore NIO,4.4.15,org.apache.httpcomponents,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache HttpCore,4.4.15,org.apache.httpcomponents,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Log4j 1.x Compatibility API,2.15.0,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Log4j API,2.17.2,org.apache.logging.log4j,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Log4j Core,2.15.0,org.apache.logging.log4j,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Log4j Core,2.17.2,org.apache.logging.log4j,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Log4j SLF4J Binding,2.17.2,org.apache.logging.log4j,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Log4j to SLF4J Adapter,2.17.2,org.apache.logging.log4j,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Log4j Web,2.15.0,org.apache.logging.log4j,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Log4j,1.2.17,org.apache.logging.log4j,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Parquet Avro,1.12.3,org.apache.parquet,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Parquet Column,1.12.3,org.apache.parquet,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Parquet Common,1.12.3,org.apache.parquet,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Parquet Encodings,1.12.3,org.apache.parquet,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Parquet Format Structures,1.12.3,org.apache.parquet,Unknown,
+Java,Apache Parquet Hadoop Bundle,1.10.0,org.apache.parquet,Unknown,
+Java,Apache Parquet Hadoop,1.12.3,org.apache.parquet,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache Parquet Jackson,1.12.3,org.apache.parquet,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache PDFBox,2.0.22,org.apache.pdfbox,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache POI - API based on OPC and OOXML schemas,5.0.0,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Apache POI - OOXML Schemas (lite),5.0.0,org.lucee,Unknown,
+Java,Apache POI,5.0.0,org.wso2.orbit.org.apache.poi,Unknown,
+Java,Apache Sling javax.activation bundle,0.1.0,org.apache.sling,Unknown,
+Java,Apache Thrift,0.9.3,org.apache.airavata,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Twill API,0.6.0-incubating,org.apache.twill,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Twill common library,0.6.0-incubating,io.cdap.twill,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Twill core library,0.6.0-incubating,org.apache.twill,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Twill discovery service API,0.6.0-incubating,twill-discovery-api,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Twill discovery service implementations,0.6.0-incubating,io.cdap.twill,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Apache Twill ZooKeeper client library,0.6.0-incubating,,Unknown,
+Java,Apache Velocity - Engine,2.3,org.wso2.orbit.org.apache.velocity,Unknown,
+Java,Apache Velocity,1.7,org.wso2.orbit.org.apache.velocity,Unknown,
+Java,Apache XML Graphics Commons,2.4,org.apache.xmlgraphics,MPL,https://www.mozilla.org/en-US/MPL/1.1/annotated/
+Java,Apache XML Security for Java,2.2.1,,Unknown,
+Java,Apache Yetus - Audience Annotations,0.13.0,org.apache.yetus,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,ApacheDS I18n,2.0.0-M15,org.apache.directory.server,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,ApacheDS Protocol Kerberos Codec,2.0.0-M15,org.apache.directory.server,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,API Common,1.7.0,com.diamondq.common,BSD-3-Clause,https://opensource.org/license/bsd-3-clause/
+Java,archaius-core,0.7.6,cn.leancloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,argparse4j,0.8.1,net.sourceforge.argparse4j,MIT,https://opensource.org/license/mit/
+Java,Arrow Format,0.8.0,org.apache.arrow,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Arrow Memory,0.8.0,org.apache.arrow,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Arrow Vectors,0.8.0,org.apache.arrow,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,ASK SDK for Java Apache API Client,2.44.0,ask-sdk-apache-client,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0,
+Java,ASK SDK for Java Core,2.44.0,com.amazon.alexa,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASK SDK for Java DynamoDB Persistence Adapter,2.44.0,com.amazonaws,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASK SDK for Java FreeMarker Template Renderer,2.44.0,org.restheart,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASK SDK for Java Lambda Support Plugin,2.44.0,com.amazon.alexa,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASK SDK for Java Runtime,2.44.0,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASK SDK for Java Servlet Support Plugin,2.44.0,org.kie.modules,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASK SDK for Java,2.44.0,com.amazon.alexa,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ask-sdk-model,1.40.0,com.amazon.alexa,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASM Analysis,5.0.3,asm,BSD-3-Clause,https://opensource.org/license/bsd-3-clause/
+Java,ASM based accessors helper used by json-smart,2.4.8,net.minidev,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ASM Core,5.0.4,it.sephiroth.android.library.asm,MIT,https://opensource.org/license/mit/
+Java,ASM Tree,5.0.3,asm,Unknown,
+Java,ASM Util,5.0.3,asm,Unknown,
+Java,asm,9.1,org.ow2.asm,BSD-3-Clause,https://opensource.org/license/bsd-3-clause/
+Java,asm-analysis,7.1,asm,Unknown,
+Java,asm-commons,7.1,asm,Unknown,
+Java,asm-tree,7.1,asm,Unknown,
+Java,asm-util,7.1,asm,Unknown,
+Java,AspectJ runtime,1.9.6,one.gfw,BSD,https://opensource.org/license/bsd-3-clause/
+Java,AspectJ weaver,1.9.6,one.gfw,BSD,https://opensource.org/license/bsd-3-clause/
+Java,AspectJ Weaver,1.9.7,one.gfw,BSD,https://opensource.org/license/bsd-3-clause/
+Java,AssertJ fluent assertions,3.16.1,org.assertj,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,audio,1.0.0.RELEASE,com.gluonhq.attach,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,auth0,1.14.1,com.auth0,MIT,https://opensource.org/license/mit/
+Java,AWS Event Stream,1.0.1,com.lightbend.akka,BUSL,https://spdx.org/licenses/BUSL-1.1.html
+Java,AWS Java SDK :: Annotations,2.17.32,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Auth,2.17.32,org.jboss.pnc.bacon,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: AWS Core,2.17.32,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Core :: Protocols :: AWS Json Protocol,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Core :: Protocols :: Json Utils,2.17.32,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Core :: Protocols :: Protocol Core,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: HTTP Client Interface,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: HTTP Clients :: Apache,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: HTTP Clients :: Netty Non-Blocking I/O,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Metrics SPI,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Profiles,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Regions,2.17.32,software.amazon.awssdk,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: SDK Core,2.17.32,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Services :: Redshift Data,2.17.32,org.lucee,Unknown,
+Java,AWS Java SDK :: Third Party :: Jackson-core,2.17.32,com.fasterxml.jackson.core,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK :: Utilities,2.17.32,ir.king-app,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK for Amazon DynamoDB,1.12.166,com.amazonaws,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK for Amazon EC2,1.12.166,com.amazonaws,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK for Amazon Polly,1.11.282,org.lucee,Unknown,
+Java,AWS Java SDK for Amazon Redshift,1.12.166,org.lucee,Unknown,
+Java,AWS Java SDK for Amazon S3,1.12.166,org.lucee,Unknown,
+Java,AWS Java SDK for Amazon SES,1.12.166,com.amazonaws,Unknown,
+Java,AWS Java SDK for AWS CloudFormation,1.11.415,com.amazonaws,Unknown,
+Java,AWS Java SDK for AWS Data Pipeline,1.12.166,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,AWS Java SDK for AWS KMS,1.12.166,org.lucee,Unknown,
+Java,AWS Java SDK for AWS Marketplace Entitlement,1.12.166,org.lucee,Unknown,
+Java,AWS Java SDK for AWS Marketplace Metering Service,1.12.166,org.lucee,Unknown,
+Java,AWS Java SDK for AWS Secrets Manager,1.12.166,com.amazonaws,Unknown,
+Java,AWS Lambda Java Core Library,1.2.1,com.amazonaws,Unknown,
+Java,AWS SDK for Java - Core,1.12.166,com.ionic.cloudstorage,Ionic Resources,https://github.com/ionic-team/ionic-framework/blob/main/LICENSE
+Java,Bean Validation API,2.0.1.Final,com.infobip,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,BeanShell,2.0b6,org.beanshell,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,BoneCP :: Core Library,0.8.0.RELEASE,com.jolbox,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,"Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs",1.68,org.bouncycastle.bcpkix-jdk15on.1.57.org.bouncycastle,Bouncy Castle,https://www.bouncycastle.org/licence.html
+Java,Bouncy Castle Provider,1.61,org.lucee,Bouncy Castle,https://www.bouncycastle.org/licence.html
+Java,Brave instrumentation for Reactor Netty HTTP,1.0.24,io.projectreactor.netty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Brave Instrumentation: Http Adapters,5.13.9,,Unknown,
+Java,Brave,5.13.9,io.zipkin.brave,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Byte Buddy agent,1.10.13,net.bytebuddy,Unknown,
+Java,Byte Buddy (without dependencies),1.12.19,net.bytebuddy,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,cache2k API,1.2.4.Final,org.cache2k,Apache 2,https://opensource.org/license/apache-2-0/
+Java,cache2k base BOM,1.2.4.Final,org.cache2k,Apache 2,https://opensource.org/license/apache-2-0/
+Java,cache2k implementation,1.2.4.Final,org.cache2k,Apache 2,https://opensource.org/license/apache-2-0/
+Java,ChargeBee Java,2.7.7,com.chargebee,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Checker Qual,2.5.2,com.diamondq.common,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Checker Qual,3.12.0,com.diamondq.common,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Class Model for Hk2,2.6.1,org.glassfish.hk2,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,ClassGraph,4.8.128,io.github.classgraph,MIT,https://opensource.org/license/mit/
+Java,ClassMate,1.5.1,com.guicedee.services,GPL 3,https://opensource.org/license/gpl-3-0/
+Java,Common Beans,1.0.0.RELEASE,cn.ipokerface,Unknown,
+Java,Common,1.0.0.RELEASE,chat.dim,Unknown,
+Java,Commons BeanUtils Core,1.8.0,commons-beanutils,Unknown,
+Java,Commons Chain,1.1,commons-chain,Unknown,
+Java,Commons CLI,1.2,commons-cli,Unknown,
+Java,Commons Collections,3.2.1,commons-collections,Unknown,
+Java,Commons Compress,1.4.1,commons-compress,Unknown,
+Java,Commons Configuration,1.8,commons-configuration,Unknown,
+Java,Commons Daemon,1.0.13,tomcat,Unknown,
+Java,Commons DBCP,1.4,commons-dbcp,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Commons Lang,2.6,commons-lang,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Commons Logging,1.1.3,commons-logging,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Commons Math,3.1.1,commons-math,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Commons Net,3.1,net.anwiba.commons,GPL-2.1,https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+Java,Commons Pool,1.6,commons-pool,Unknown,
+Java,commons-beanutils,1.7.0,commons-beanutils,Unknown,
+Java,commons-compiler,3.1.9,org.codehaus.janino,Unknown,
+Java,compiler,0.9.6,com.fluxtion,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,ConcurrentLinkedHashMap,1.4.2,com.googlecode.concurrentlinkedhashmap,Unknown,
+Java,Core functionality for the Reactor Netty library,1.0.24,com.sonsure,Same license as the original jar,
+Java,Core Hibernate O/RM functionality,5.1.16.Final,org.hibernate,GPL,https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+Java,Cryptacular Library,1.2.4,org.cryptacular,Apache 2,https://opensource.org/license/apache-2-0/
+Java,Curator Client,2.7.1,org.apache.curator,Unknown,
+Java,Curator Framework,5.1.0,org.apache.curator,Unknown,
+Java,Curator Recipes,5.1.0,com.bazaarvoice.curator,Unknown,
+Java,Curator-Common,1.0.0.RELEASE,org.apache.curator,Unknown,
+Java,curvesapi,1.06,com.github.virtuald,Unknown,
+Java,Data Mapper for Jackson,1.9.13,org.kie.modules,Unknown,
+Java,DataNucleus Core,4.1.17,org.datanucleus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,DataNucleus JDO API plugin,4.2.4,org.datanucleus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,DataNucleus RDBMS plugin,4.1.19,org.datanucleus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Digester,1.8,com.sun.commons,Unknown,
+Java,Disruptor Framework,3.3.6,com.weicoder,"木兰公共许可证, 第2版",
+Java,dnsjava,2.1.7,org.dnsjava,Unknown,
+Java,dom4j,2.1.3,dom4j,Unknown,
+Java,Ehcache,3.8.1,ehcache,Unknown,
+Java,Elastic JNA Distribution,4.5.1,one.gfw,Unknown,
+Java,elasticsearch-cli,7.7.1,org.elasticsearch,Elastic License 2.0,https://www.elastic.co/licensing/elastic-license
+Java,elasticsearch-core,7.7.1,org.elasticsearch,Elastic License 2.0,https://www.elastic.co/licensing/elastic-license
+Java,elasticsearch-geo,7.7.1,org.elasticsearch,Elastic License 2.0,https://www.elastic.co/licensing/elastic-license
+Java,elasticsearch-lz4,7.17.7,org.elasticsearch,Unknown,
+Java,elasticsearch-plugin-classloader,7.17.7,org.elasticsearch,Unknown,
+Java,elasticsearch-secure-sm,7.7.1,org.elasticsearch,Unknown,
+Java,elasticsearch-x-content,7.7.1,org.elasticsearch,Unknown,
+Java,error-prone annotations,2.7.1,com.google.errorprone,Unknown,
+Java,Evo Inflector,1.2.2,org.atteo,Unknown,
+Java,exp4j,0.4.8,com.elmakers.math,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Expression Language 3.0,3.0.1-b12,org.kie.modules,Unknown,
+Java,fastutil,8.3.0,it.unimi.dsi,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,FFmpeg Wrapper,0.6.2,org.bytedeco,Unknown,
+Java,Findbugs Annotations under Apache License,1.3.9-1,findbugs,Unknown,
+Java,FindBugs-jsr305,3.0.2,net.sourceforge.findbugs,GNU Lesser Public License,
+Java,FlatBuffers Java API,1.2.0-3f79e055,com.google.flatbuffers,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,fst,2.5,de.ruedigermoeller,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,GAX (Google Api eXtensions) for Java,1.35.1,com.google.api,BSD,https://opensource.org/license/bsd-1-clause/
+Java,Google Android Annotations Library,4.1.1.4,software.amazon.awssdk,Unknown,
+Java,Google Auth Library for Java - Credentials,0.26.0,com.google.auth,Unknown,
+Java,Google Auth Library for Java - OAuth2 HTTP,0.12.0,com.google.auth,Unknown,
+Java,Google Cloud Core gRPC,1.59.0,com.google.cloud,Unknown,
+Java,Google Cloud Core,1.59.0,com.google.cloud,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Google Cloud Text-to-Speech,0.77.0-beta,com.google.cloud,Unknown,
+Java,Google Guice - Core Library,3,com.codeborne.replay,Unknown,
+Java,Google Guice - Extensions - AssistedInject,3,org.apache.stratos,Unknown,
+Java,Google Guice - Extensions - Servlet,4,com.intershop.guice,Unknown,
+Java,Google HTTP Client Library for Java,1.40.1,com.google.http-client,Unknown,
+Java,Google OAuth Client Library for Java,1.20.0,com.google.oauth-client,Unknown,
+Java,GSON extensions to the Google HTTP Client Library for Java.,1.40.1,com.google.http-client,Unknown,
+Java,Gson,2.8.9,com.google.code.gson,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Guava: Google Core Libraries for Java,31.0.1-jre,com.github.ben-manes.caffeine,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Guava InternalFutureFailureAccess and InternalFutures,1.0.1,com.google.guava,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Guava ListenableFuture only,9999.0-empty-to-avoid-conflict-with-guava,com.google.guava,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,H2 Database Engine,2.1.214,org.wso2.orbit.com.h2database,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hadoop Metrics2 Reporter for Dropwizard Metrics,0.1.2,com.github.joshelser,Unknown,
+Java,hadoop-mapreduce-client-app,2.7.1,com.github.jiayuhan-it,Unknown,
+Java,hadoop-mapreduce-client-common,2.7.1,org.apache.hadoop,Unknown,
+Java,hadoop-mapreduce-client-core,2.7.1,org.apache.hadoop,Unknown,
+Java,hadoop-mapreduce-client-jobclient,2.7.1,com.github.jiayuhan-it,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,hadoop-mapreduce-client-shuffle,2.7.1,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,hadoop-yarn-client,2.7.1,org.apache.hadoop,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hamcrest Core,2.2,org.hamcrest,BSD-3,https://opensource.org/license/bsd-3-clause/
+Java,Hamcrest Library,2.2,org.hamcrest,BSD-3,https://opensource.org/license/bsd-3-clause/
+Java,Hamcrest,2.2,org.hamcrest,New BSD License,
+Java,hazelcast-all,4.2.2,com.hazelcast,Unknown,
+Java,HdrHistogram,2.1.9,org.hdrhistogram,Unknown,
+Java,Hibernate Commons Annotations,5.1.2.Final,org.hibernate,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,Hibernate ORM - hibernate-core,5.6.14.Final,org.hibernate,GPL,https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+Java,Hibernate ORM - hibernate-entitymanager,5.4.18.Final,org.hibernate.orm,GPL,https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+Java,Hibernate Validator Engine,6.1.5.Final,org.hibernate.validator,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,hibernate-types-52,2.10.3,com.vladmihalcea,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,HikariCP,4.0.3,com.zaxxer,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Hive Classifications,3.1.2,org.apache.hive,Unknown,
+Java,Hive Common,3.1.2,org.apache.hive,Unknown,
+Java,Hive JDBC,3.1.2,com.mydataharbor,Unknown,
+Java,Hive Llap Client,3.1.2,org.apache.hive,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Llap Common,3.1.2,org.apache.hive,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Llap Server,3.1.2,org.apache.hive,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Llap Tez,3.1.2,org.apache.hive,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Metastore,3.1.2,org.apache.hive,Unknown,
+Java,Hive Serde,3.1.2,fm.last.commons.hive.serde,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Hive Service RPC,3.1.2,org.apache.hive,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Service,3.1.2,org.apache.hive,Unknown,
+Java,Hive Shims 0.23,3.1.2,org.apache.hive.shims,Unknown,
+Java,Hive Shims Common,3.1.2,org.apache.hive.shims,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Shims Scheduler,3.1.2,org.apache.hive.shims,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Shims,3.1.2,org.apache.hive.shims,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Hive Standalone Metastore,3.1.2,org.apache.hive,Unknown,
+Java,Hive Storage API,2.7.0,org.apache.hive,Unknown,
+Java,Hive Upgrade Acid,3.1.2,org.apache.hive,Unknown,
+Java,HK2 API module,2.6.1,org.glassfish.hk2,Unknown,
+Java,HK2 core module,2.6.1,org.glassfish.hk2,Unknown,
+Java,HK2 Implementation Utilities,2.6.1,org.glassfish.hk2,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,HK2 module of HK2 itself,2.6.1,org.glassfish.hk2,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,HK2 Spring Bridge,2.6.1,org.glassfish.hk2,Unknown,
+Java,HPPC Collections,0.8.1,com.carrotsearch,Unknown,
+Java,htrace-core,3.1.0-incubating,org.apache.htrace,Unknown,
+Java,HTTP functionality for the Reactor Netty library,1.0.24,io.projectreactor.netty,Unknown,
+Java,HttpClient,3.1,io.github.noobdogcloud,Unknown,
+Java,hystrix-core,1.5.18,com.netflix.hystrix,Unknown,
+Java,hystrix-javanica,1.5.18,com.netflix.hystrix,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,hystrix-metrics-event-stream,1.5.18,com.netflix.hystrix,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,hystrix-serialization,1.5.18,com.netflix.hystrix,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ICU4J,65.1,icu4j,Unknown,
+Java,IntelliJ IDEA Annotations,15,org.neo4j.gds,"GNU General Public License, Version 3",
+Java,io.grpc:grpc-api,1.38.0,io.grpc,Apache 2.0,https://opensource.org/license/apache-2-0/
+Java,io.grpc:grpc-auth,1.38.0,io.grpc,Apache 2.0,https://opensource.org/license/apache-2-0/
+Java,io.grpc:grpc-context,1.16.1,org.wso2.orbit.io.grpc,Unknown,
+Java,io.grpc:grpc-context,1.41.0,org.wso2.orbit.io.grpc,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,io.grpc:grpc-core,1.38.0,io.grpc,Apache 2.0,https://opensource.org/license/apache-2-0/
+Java,io.grpc:grpc-netty-shaded,1.38.0,io.grpc,Apache 2.0,https://opensource.org/license/apache-2-0/
+Java,io.grpc:grpc-protobuf,1.38.0,io.grpc,Apache 2.0,https://opensource.org/license/apache-2-0/
+Java,io.grpc:grpc-protobuf-lite,1.38.0,org.onosproject,Unknown,
+Java,io.grpc:grpc-stub,1.38.0,io.grpc,Unknown,
+Java,istack common utility code runtime,3.0.12,com.sun.istack,Unknown,
+Java,J2ObjC Annotations,1.3,com.google.j2objc,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson 2 extensions to the Google HTTP Client Library for Java.,1.39.2,com.google.http-client,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson dataformat: CBOR,2.13.4,com.fasterxml.jackson.dataformat,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson dataformat: Smile,2.13.4,com.fasterxml.jackson.dataformat,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson datatype: jdk8,2.13.4,com.fasterxml.jackson.datatype,Unknown,
+Java,Jackson datatype: JSR310,2.13.4,com.fasterxml.jackson.datatype,Unknown,
+Java,Jackson Integration for Metrics,4.1.11,com.liferay,Unknown,
+Java,Jackson module: Afterburner,2.11.1,com.fasterxml,Unknown,
+Java,Jackson module: JAXB Annotations,2.11.3,com.fasterxml.jackson.module,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson module: Old JAXB Annotations (javax.xml.bind),2.13.4,com.fasterxml.jackson.module,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson,1.9.13,com.fasterxml.jackson,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-annotations,2.7.4,com.liferay,LGPL 2.1,https://opensource.org/license/lgpl-2-1/
+Java,Jackson-core,2.7.4,com.fasterxml.jackson.core,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jackson-databind,2.7.4,com.liferay,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-dataformat-CSV,2.12.0,com.fasterxml.jackson.dataformat,UApache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-dataformat-XML,2.13.4,com.fasterxml.jackson.dataformat,UApache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-dataformat-YAML,2.13.4,com.fasterxml.jackson.dataformat,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-JAXRS-base,2.11.1,com.fasterxml.jackson.jaxrs,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-JAXRS-JSON,2.11.1,org.apache.hbase.thirdparty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jackson-module-parameter-names,2.13.4,com.fasterxml.jackson.module,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jakarta Activation API jar,1.2.2,jakarta.activation,EDL 1.0,https://www.eclipse.org/org/documents/edl-v10.php
+Java,Jakarta Activation,1.2.2,jakarta.activation,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,Jakarta Annotations API,1.3.5,jakarta.annotation,EPL-2.0,https://opensource.org/license/epl-2-0/
+Java,Jakarta Bean Validation API,2.0.2,jakarta.validation,EPL-2.0,https://opensource.org/license/epl-2-0/
+Java,Jakarta Expression Language 3.0,3.0.3,jakarta.el,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jakarta Persistence API,2.2.3,jakarta.persistence,EPL-2.0,https://opensource.org/license/epl-2-0/
+Java,Jakarta XML Binding API,2.3.3,jakarta.xml.bind,EDL,https://www.eclipse.org/org/documents/edl-v10.php
+Java,jakarta.ws.rs-api,2.1.6,jakarta.ws.rs,EPL-2.0,https://opensource.org/license/epl-2-0/
+Java,jakarta.xml.bind-api,2.3.2,jakarta.xml.bind,EDL,https://www.eclipse.org/org/documents/edl-v10.php
+Java,jamon-runtime,2.3.1,org.jamon,Mozilla Public License Version 2.0,
+Java,janino,3.1.2,janino,BSD,https://opensource.org/license/bsd-3-clause/
+Java,Java Annotation Indexer,2.4.2.Final,org.kie.modules,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,java jwt,3.8.1,com.zerodeplibs,MIT,https://opensource.org/license/mit/
+Java,Java Native Access Platform,5.6.0,net.java.dev.jna,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Java Native Access,5.5.0,one.gfw,BSD,https://opensource.org/license/bsd-3-clause/
+Java,Java Object Layout: Core,0.1,org.openjdk.jol,GPL 2.0,https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+Java,"Java Persistence API, Version 2.1",1.0.0.Final,org.hibernate.javax.persistence,EDL,https://www.eclipse.org/org/documents/edl-v10.php
+Java,Java Servlet API,4.0.1,com.guicedee.services,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Java Transaction API,1.1.1.Final,net.java.dev.glassfish,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,java-asana,0.10.1,com.asana,MIT,https://opensource.org/license/mit/
+Java,JavaBeans Activation Framework API jar,1.2.1,org.kie.modules,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,JavaBeans Activation Framework (JAF),1.1,activation,CDDL, https://spdx.org/licenses/CDDL-1.1.html
+Java,JavaMail API jar,1.6.2,org.opennms,GPL 2.0,https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+Java,JavaMail API,1.6.2,org.opennms,GPL 2.0,https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+Java,JavaServer Pages(TM) API,2.3.1,javax.servlet,GPL 2.0,https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+Java,Javassist,3.24.0-GA,jboss,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,java-support,8.2.1,net.shibboleth.utilities,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,java-util,1.9.0,io.ultreia.java4all,Lesser General Public License (LGPL) v 3.0,
+Java,javax.annotation API,1.3.2,javax.annotation,COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0,
+Java,javax.inject:1 as OSGi bundle,2.6.1,javax.inject,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,javax.inject,1,javax.inject,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,java-xmlbuilder,0.4,com.jamesmurty.utils,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,javax.persistence-api,2.2,org.kie.modules,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,javax.transaction API,1.3.3,javax.transaction,CDDL + GPLv2 with classpath exception,
+Java,javax.ws.rs-api,2.1.1,javax.ws.rs,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JaVers Library,6.7.1,org.javers,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Javolution,5.5.1,org.javolution,BSD,https://opensource.org/license/bsd-3-clause/
+Java,JAXB RI,2.2.3-1,cn.lzgabel.jaxb.xml.bind,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,JAXB Runtime,2.3.7,org.glassfish.jaxb,EDL 1.0,https://www.eclipse.org/org/documents/edl-v10.php
+Java,jaxb-api,2.3.1,one.gfw,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,JAX-RS provider for JSON content type,1.8.3,org.apache.hbase.thirdparty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JBoss Logging 3,3.4.3.Final,org.jboss.logging,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JCIP Annotations under Apache License,1.0-1,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JCL 1.1.1 implemented over SLF4J,1.7.6,org.slf4j,MIT,https://opensource.org/license/mit/
+Java,JCL 1.2 implemented over SLF4J,1.7.36,org.slf4j,MIT,https://opensource.org/license/mit/
+Java,JCodings,1.0.18,org.jruby.jcodings,MIT,https://opensource.org/license/mit/
+Java,JCommander,1.27,name.valery1707,MIT,https://opensource.org/license/mit/
+Java,jcommander,1.72,com.beust,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JDO API,3.2.0-m3,javax.jdo,Apache 2,https://opensource.org/license/apache-2-0/
+Java,Jedis,3.8.0,de.julielab,BSD-2-Clause,https://opensource.org/license/bsd-2-clause/
+Java,Jersey Apache HTTP Client 4.x,1.19.1,jersey-apache-client4,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,jersey-client,1.19.1,org.glassfish.jersey.core,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,jersey-container-servlet,2.30.1,org.glassfish.jersey.containers,Unknown,
+Java,jersey-container-servlet-core,2.30.1,org.glassfish.jersey.containers,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,jersey-core,1.9,org.eclipse.edc,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jersey-core-client,2.30.1,org.glassfish.jersey.core,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,jersey-core-common,2.30.1,org.glassfish.jersey.core,EPL 2.0,https://opensource.org/license/epl-2-0/
+Java,jersey-core-server,2.30.1,net.consensys.quorum.tessera,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jersey-ext-bean-validation,2.30.1,org.glassfish.jersey.ext,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jersey-ext-entity-filtering,2.30.1,org.glassfish.jersey.ext,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jersey-guice,1.19,com.sun.jersey.contribs,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,jersey-inject-hk2,2.30.1,no.priv.bang.karaf,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jersey-json,1.9,com.github.pjfanning,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,jersey-media-jaxb,2.30.1,org.glassfish.jersey.media,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,jersey-media-json-jackson,2.30.1,org.glassfish.jersey.media,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,jersey-server,1.9,net.consensys.quorum.tessera,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jersey-servlet,1.19,com.sun.jersey,"CDDL 1.1,GPL2 w/ CPE",
+Java,jersey-spring5,2.30.1,org.glassfish.jersey.ext,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,Jettison,1.1,org.codehaus.jettison,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jetty :: Http Utility,9.4.30.v20200611,org.eclipse.jetty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jetty :: IO Utility,9.4.30.v20200611,org.eclipse.jetty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jetty :: Rewrite Handler,9.4.30.v20200611,org.mortbay.jetty,"Apache Software License - Version 2.0,Eclipse Public License - Version 1.0",
+Java,Jetty :: Security,9.4.30.v20200611,acegisecurity,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jetty :: Server Core,9.4.30.v20200611,org.eclipse.jetty.websocket,"Eclipse Public License - Version 2.0,Apache Software License - Version 2.0",
+Java,Jetty :: Servlet Handling,9.4.30.v20200611,jetty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jetty :: Utilities :: Ajax(JSON),9.4.30.v20200611,org.eclipse.jetty,"Eclipse Public License - Version 2.0,Apache Software License - Version 2.0",
+Java,Jetty :: Utilities,9.4.30.v20200611,org.eclipse.jetty,"Eclipse Public License - Version 2.0,Apache Software License - Version 2.0",
+Java,Jetty :: Webapp Application Support,9.4.30.v20200611,org.eclipse.jetty,"Eclipse Public License - Version 2.0,Apache Software License - Version 2.0",
+Java,Jetty :: XML utilities,9.4.30.v20200611,org.eclipse.jetty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Jetty Server,6.1.26,org.everit.jetty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Jetty Utilities,6.1.26,org.eclipse.jetty,"Eclipse Public License - Version 2.0,Apache Software License - Version 2.0",
+Java,JLayer,1.0.1-1,com.badlogicgames.jlayer,LGPL 2.1,http://www.fsf.org/licensing/licenses/lgpl.txt
+Java,JLine,2.12,org.jline,BSD,https://opensource.org/license/bsd-3-clause/
+Java,JMES Path Query library,1.12.166,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Joda-Time,2.8.1,org.wso2.orbit.joda-time,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Joni,2.1.11,org.jruby.joni,MIT,https://opensource.org/license/mit/
+Java,JOpt Simple,5.0.2,net.sf.jopt-simple,MIT,https://opensource.org/license/mit/
+Java,JPam,1.1,net.sf.jpam,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JSch,0.1.54,io.quarkiverse.jsch,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JSON in Java,20211205,com.proofpoint.platform,public,
+Java,JSON library from Android SDK,0.0.20131108.vaadin1,su.lychee,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,JSON Small and Fast Parser,2.4.8,net.minidev,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,JSONassert,1.5.0,com.toomuchcoding.jsonassert,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,json-base,1.0.0,com.github.wnameless.json,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,json-flattener,0.8.1,com.github.wnameless.json,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,json-io,2.5.1,io.github.vvk78.perceptnet.commons,Unknown,
+Java,JSON-P Default Provider,1.1.6,org.eclipse.parsson,Unknown,
+Java,json-path,3.3.0,com.jayway.jsonpath,Unknown,
+Java,json-schema-validator,3.2.0,com.liferay,LGPL 2.1,https://opensource.org/license/lgpl-2-1/
+Java,JSP implementation,2.3.2,javax.servlet,Unknown,
+Java,jsp-api,2.1,org.apache.tomcat,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,jsr311-api,1.1.1,org.neo4j.3rdparty.javax.ws.rs,Unknown,
+Java,JTA 1.1,1.1.1,org.apache.geronimo.specs,Unknown,
+Java,jtwig-core,5.87.0.RELEASE,org.jtwig,Unknown,
+Java,jtwig-reflection,5.87.0.RELEASE,org.jtwig,Unknown,
+Java,JUL to SLF4J bridge,1.7.36,org.slf4j,Unknown,
+Java,JUnit Jupiter (Aggregator),5.6.2,org.junit.jupiter,Unknown,
+Java,JUnit Jupiter API,5.6.2,org.junit.jupiter,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JUnit Jupiter Engine,5.6.2,org.junit.jupiter,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JUnit Jupiter Params,5.6.2,com.wesleyhome.test,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JUnit Platform Commons,1.6.2,org.junit.platform,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JUnit Platform Engine API,1.6.2,org.junit.platform,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JUnit Vintage Engine,5.6.2,org.junit.vintage,Eclipse-2.0,https://www.eclipse.org/legal/epl-2.0/
+Java,JUnit,4.13,junit,CDDL,https://spdx.org/licenses/CDDL-1.1.html
+Java,JVM Integration for Metrics,4.1.11,io.dropwizard.metrics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,jwks-rsa,0.11.0,com.auth0,MIT,https://opensource.org/license/mit/
+Java,KeePassJava2 :: All,2.1.4,org.linguafranca.pwdb,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,KeePassJava2 :: DOM,2.1.4,org.linguafranca.pwdb,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,KeePassJava2 :: JAXB,2.1.4,org.linguafranca.pwdb,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,KeePassJava2 :: KDB,2.1.4,org.linguafranca.pwdb,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,KeePassJava2 :: KDBX,2.1.4,org.linguafranca.pwdb,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,KeePassJava2 :: Simple,2.1.4,org.linguafranca.pwdb,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Kubernetes Discovery Plugin for Hazelcast,2.2.3,com.hazelcast,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,lang-mustache,7.7.1,org.codelibs.elasticsearch.module,SSPL,https://www.mongodb.com/licensing/server-side-public-license
+Java,LatencyUtils,2.0.3,org.latencyutils,CC0 1.0,https://creativecommons.org/publicdomain/zero/1.0/
+Java,LDAPTIVE CORE,1.3.0,org.ldaptive,"Apache 2,GNU Lesser General Public License",
+Java,Lettuce,6.1.10.RELEASE,org.jetlinks,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,leveldbjni-all,1.8,io.github.tronprotocol,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,libphonenumber,6.2,com.googlecode.libphonenumber,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Logback Access Module,1.2.3,ch.qos.logback,"Eclipse Public License - v 1.0,GNU Lesser General Public License",
+Java,Logback Classic Module,1.2.7,com.tersesystems.logback,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,Logback Core Module,1.2.7,com.tersesystems.logback,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,Logback GELF,2.0.0,cn.home1,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,Logging,1.1,io.github.gustiks,pache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Common Analyzers,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Core,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Grouping,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Highlighter,8.5.1,org.lucee,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Join,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Memory,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Miscellaneous,8.5.1,org.lucee,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Queries,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene QueryParsers,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Sandbox,8.5.1,com.alibaba.lindorm,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Spatial 3D,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Spatial Extras,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Spatial,8.4.0,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Lucene Suggest,8.5.1,hu.blackbelt.bundles.lucene,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,LZ4 and xxHash,1.8.0,org.lz4,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,mapper-extras,7.7.1,org.codelibs.elasticsearch.module,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,MapStruct Core,1.2.0.Final,no.entur.mapstruct.spi,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,mchange-commons-java,0.2.15,com.mchange,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,Metrics Core,4.2.12,com.covisint.core,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,micrometer-core,1.8.11,io.micrometer,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,micrometer-registry-prometheus,1.9.6,io.quarkus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Microsoft Azure client library for Identity,1.2.2,com.azure,MIT,https://opensource.org/license/mit/
+Java,Microsoft Azure client library for KeyVault Secrets,4.2.4,com.azure,MIT,https://opensource.org/license/mit/
+Java,Microsoft Azure Java Core Library,1.12.0,com.microsoft.azure.functions,MIT,https://opensource.org/license/mit/
+Java,Microsoft Azure Management Java Core Library,1.1.0,com.azure,MIT,https://opensource.org/license/mit/
+Java,Microsoft Azure Netty HTTP Client Library,1.7.1,org.apache.servicemix.bundles,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Microsoft Cognitive Services Speech SDK for Java,1.17.0,com.azure,MIT,https://opensource.org/license/mit/
+Java,Microsoft JDBC Driver for SQL Server,8.4.1.jre8,com.microsoft.sqlserver,MIT,https://opensource.org/license/mit/
+Java,minimal-json,0.9.5,com.github.tonivade,MIT,https://opensource.org/license/mit/
+Java,mockito-core,3.3.3,org.mockito,MIT,https://opensource.org/license/mit/
+Java,mockito-junit-jupiter,3.3.3,org.mockito,MIT,https://opensource.org/license/mit/
+Java,ModelMapper,0.7.7,net.eunjae.android.modelmapper,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Mozilla Rhino,1.7R4,org.wso2.orbit.org.mozilla,MPL 2.0,https://www.mozilla.org/en-US/MPL/2.0/
+Java,MP3 decoder/player/converter,1.0.1,com.googlecode.soundlibs,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,MP3SPI,1.9.5-1,com.googlecode.soundlibs,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,msal4j,1.8.1,com.microsoft.azure,MIT,https://opensource.org/license/mit/
+Java,msal4j-persistence-extension,1.0.0,com.microsoft.azure,MIT,https://opensource.org/license/mit/
+Java,mvc-auth-commons,1.0.9,com.auth0,MIT,https://opensource.org/license/mit/
+Java,MySQL Connector/J,8.0.21,com.mysql,foss-exception,https://www.mysql.com/about/legal/licensing/foss-exception/
+Java,netflix-commons-util,0.3.0,com.netflix.netflix-commons,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,netflix-statistics,0.1.1,com.netflix.netflix-commons,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty Reactive Streams HTTP support,2.0.5,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty Reactive Streams Implementation,2.0.5,com.typesafe.netty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty/All-in-One,4.1.51.Final,com.sonsure,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty/Buffer,4.1.84.Final,io.netty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty/Codec,4.1.84.Final,io.github.protocol-laboratory,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty/Codec/DNS,4.1.84.Final,io.netty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty/Codec/HTTP2,4.1.84.Final,io.zipkin.brave,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Codec/HTTP,4.1.84.Final,io.zipkin.brave,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Codec/Socks,4.1.84.Final,io.netty.contrib,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Netty/Common,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Handler,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Handler/Proxy,4.1.84.Final,io.netty.contrib,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Incubator/Codec/Classes/Quic,0.0.33.Final,io.netty.incubator,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Incubator/Codec/Native/Quic,0.0.33.Final,io.netty.incubator,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Resolver,4.1.84.Final,org.asynchttpclient,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Resolver/DNS,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Resolver/DNS/Classes/MacOS,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Resolver/DNS/Native/MacOS,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/TomcatNative [BoringSSL - Static],2.0.54.Final,com.github.trask.io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/TomcatNative [OpenSSL - Classes],2.0.54.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Transport,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Transport/Classes/Epoll,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Transport/Classes/KQueue,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Transport/Native/Epoll,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Transport/Native/KQueue,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Netty/Transport/Native/Unix/Common,4.1.84.Final,io.netty,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Nimbus Content Type,2,org.webjars.npm,MIT,https://opensource.org/license/mit/
+Java,Nimbus JOSE+JWT,8.8,org.wso2.orbit.com.nimbusds,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Nimbus LangTag,1.4.4,com.nimbusds,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Non-Blocking Reactive Foundation for the JVM,3.4.24,io.projectreactor,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,,2.2.6,org.webjars.npm,Unknown,
+Java,OAuth 2.0 SDK with OpenID Connect extensions,7.1.1,com.nimbusds,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Objenesis,2.6,org.objenesis,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ojdbc8,12.2.0.1,com.oracle.database.jdbc,FUTC,https://blogs.oracle.com/database/post/apex-ords-futc
+Java,OkHttp Logging Interceptor,3.9.1,com.github.devcsrj,Apache 2.0,https://opensource.org/license/apache-2-0/
+Java,OkHttp,3.14.9,org.wso2.orbit.com.squareup.okhttp,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,okhttp,4.8.1,com.lightningkite.rx,MIT,https://opensource.org/license/mit/
+Java,Okio,2.7.0,com.squareup.okio,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Open JSON,1.8,com.bluecirclesoft.open,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenCensus,0.28.0,org.wso2.orbit.io.opencensus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,opencsv,5,com.opencsv,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Core,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Messaging API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Messaging Implementations,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Profile API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Profile Implementations,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: SAML Provider API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: SAML Provider Implementations,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Security API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Security Implementation,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: SOAP Provider API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: SOAP Provider Implementations,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Storage API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: Storage Implementation,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: XML Security API,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,OpenSAML :: XML Security Implementation,4.1.1,org.opensaml,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ORC Core,1.5.6,org.apache.orc,Unknown,
+Java,ORC Shims,1.5.6,org.apache.orc,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.hive:hive-jdbc,3.1.2,org.apache.hive,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-all,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-anim,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-awt-util,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-bridge,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-codec,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-constants,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-css,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-dom,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-ext,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-extension,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-gui-util,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-gvt,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-i18n,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-parser,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-rasterizer,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-rasterizer-ext,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-script,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-shared-resources,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-slideshow,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-squiggle,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-squiggle-ext,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-svgbrowser,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-svg-dom,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-svggen,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-svgpp,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-svgrasterizer,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-swing,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-transcoder,1.13,org.apache.xmlgraphics,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,org.apache.xmlgraphics:batik-ttf2svg,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-util,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apache.xmlgraphics:batik-xml,1.13,org.apache.xmlgraphics,Unknown,
+Java,org.apiguardian:apiguardian-api,1.1.0,org.apiguardian,Unknown,
+Java,org.jetbrains.kotlin:kotlin-stdlib,1.3.72,org.jetbrains.kotlin,Unknown,
+Java,org.jetbrains.kotlin:kotlin-stdlib-common,1.3.70,org.jetbrains.kotlin,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,org.opentest4j:opentest4j,1.2.0,org.opentest4j,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,org.roaringbitmap:RoaringBitmap,0.8.12,org.roaringbitmap,Apache 2,https://opensource.org/license/apache-2-0/
+Java,org.roaringbitmap:shims,0.8.12,org.roaringbitmap,Apache 2,https://opensource.org/license/apache-2-0/
+Java,org.xmlunit:xmlunit-core,2.7.0,org.xmlunit,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,oro,2.0.8,oro,Unknown,
+Java,OSGi resource locator,1.0.3,org.glassfish.hk2,CDDL + GPLv2 with classpath exception,
+Java,pac4j core,5.1.3,org.pac4j.jax-rs,Unknown,
+Java,pac4j implementation for JEE,6.0.0,org.pac4j,Unknown,
+Java,pac4j: Java web security for SAML,5.1.3,org.pac4j,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,parboiled-core,1.1.7,com.imagingbook,Unknown,
+Java,parboiled-java,1.1.7,com.imagingbook,Unknown,
+Java,parent-join,7.7.1,org.codelibs.elasticsearch.module,Unknown,
+Java,parquet-resultset,1,io.github.anthorx,Unknown,
+Java,PDFBox-Graphics2d,0.3,de.rototor.pdfbox,Unknown,
+Java,perfmark:perfmark-api,0.23.0,io.perfmark,Unknown,
+Java,PicoContainer Core,2.15,org.picocontainer.web,Unknown,
+Java,polyjdbc,0.7.6,org.polyjdbc,Unknown,
+Java,PostgreSQL JDBC Driver - JDBC 4.2,42.2.9,org.testcontainers,MIT,https://opensource.org/license/mit/
+Java,PostgreSQL JDBC Driver,42.2.6,com.navercorp.pinpoint,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Presto JDBC,0.26,com.facebook.presto,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,project ':json-path',2.7.0,com.jayway.jsonpath,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Project Lombok,1.18.24,name.remal.gradle-plugins.lombok,MIT,https://opensource.org/license/mit/
+Java,Prometheus Java Simpleclient Common,0.12.0,io.prometheus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Prometheus Java Simpleclient,0.12.0,io.prometheus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Prometheus Java Span Context Supplier - Common,0.12.0,io.prometheus,Unknown,
+Java,Prometheus Java Span Context Supplier - OpenTelemetry Agent,0.12.0,io.prometheus,Unknown,
+Java,Prometheus Java Span Context Supplier - OpenTelemetry,0.12.0,org.bedework.deploy,Apache License Version 2.0,
+Java,Protocol Buffer Java API,2.5.0,com.github.myibu,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Protocol Buffers [Core],3.18.1,com.github.myibu,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Protocol Buffers [Util],3.6.1,io.chandler,3-Clause BSD License,
+Java,proto-google-cloud-texttospeech-v1,0.42.0,com.google.api.grpc,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,proto-google-cloud-texttospeech-v1beta1,0.42.0,com.google.api.grpc,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,proto-google-common-protos,1.12.0,com.google.api.grpc,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,proto-google-iam-v1,0.12.0,com.google.api.grpc,Unknown,
+Java,PWDB :: Database,2.1.4,org.linguafranca.pwdb,Unknown,
+Java,quartz,2.3.2,com.weicoder,"木兰公共许可证, 第2版",
+Java,QUIC functionality for the Reactor Netty library,0.0.13,io.projectreactor.netty.incubator,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,rank-eval,7.7.1,org.elasticsearch.plugin,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Reactive Streams Netty driver,0.9.15.RELEASE,io.projectreactor.netty,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,reactive-streams,1.0.4,org.reactivestreams,MIT-0,https://opensource.org/license/mit-0/
+Java,Reactor Netty with all modules,1.0.24,io.projectreactor.netty,Unknown,
+Java,redshift-jdbc42,1.2.43.1067,com.amazon.redshift,Unknown,
+Java,redshift-jdbc42-no-awssdk,1.2.41.1065,,Unknown,
+Java,REST Assured,3.2.0,io.rest-assured,Unknown,
+Java,rest,7.7.1,com.ericsson.bss.cassandra.ecchronos,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,rest-assured-common,3.3.0,io.rest-assured,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,rest-high-level,7.7.1,io.quarkus,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,ribbon,2.3.0,io.thorntail,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,ribbon-core,2.3.0,com.netflix.ribbon,Unknown,
+Java,ribbon-httpclient,2.3.0,com.netflix.ribbon,Unknown,
+Java,ribbon-loadbalancer,2.3.0,com.netflix.ribbon,Unknown,
+Java,ribbon-transport,2.3.0,com.netflix.ribbon,Unknown,
+Java,Run Level Service,2.6.1,org.glassfish.hk2,Unknown,
+Java,rxjava,1.3.8,io.reactivex.rxjava3,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,rxjava-reactive-streams,1.2.1,io.reactivex,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,rxnetty,0.4.9,org.wildfly.swarm,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,rxnetty-contexts,0.4.9,com.netflix.iep-shadow,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,rxnetty-servo,0.4.9,com.netflix.iep-shadow,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,server,7.7.1,com.trib3,Unknown,
+Java,ServiceLocator Default Implementation,2.6.1,org.glassfish.hk2,Unknown,
+Java,servlet-api,2.5,org.opendaylight.aaa.web,Unknown,
+Java,servo-core,0.12.21,com.netflix.servo,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Simba Google BigQuery JDBC Data Connector,42_1.3.0.1001,com.google.cloud,Unknown,
+Java,Simple XML,2.7.1,org.simpleframework,Unknown,
+Java,SLF4J API Module,1.7.36,io.github.qsy7.java.dependencies,Unknown,
+Java,SLF4J LOG4J-12 Binding,1.7.30,org.slf4j,Unknown,
+Java,SnakeYAML,1.3,org.snakeyaml,Unknown,
+Java,snappy-java,1.1.8.3,org.xerial.snappy,Unknown,
+Java,Snowflake JDBC Driver,3.12.2,net.snowflake,Unknown,
+Java,software.amazon.ion:ion-java,1.0.2,software.amazon.ion,Unknown,
+Java,Spark Avro,3.2.1,com.databricks,Unknown,
+Java,SparseBitSet,1.2,org.lucee,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spongy Castle,1.54.0.0,org.bouncycastle.bcpkix-jdk15on.1.57.org.bouncycastle,Bouncy Castle,https://www.bouncycastle.org/licence.html
+Java,Spring AOP,5.3.23,spring,Unknown,
+Java,Spring Aspects,5.3.23,works.lmz.composite,MIT,https://opensource.org/license/mit/
+Java,Spring Beans,5.3.23,spring,Unknown,
+Java,Spring Cloud AWS Autoconfigure,2.1.0.RELEASE,io.awspring.cloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Cloud AWS Context,2.4.2,io.awspring.cloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Cloud AWS Core,2.4.2,io.awspring.cloud,Unknown,
+Java,Spring Cloud AWS Starter,2.1.0.RELEASE,io.awspring.cloud,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Spring Cloud Commons,2.1.0.RELEASE,icu.lowcoder.spring.cloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Cloud Context,2.1.0.RELEASE,com.microsoft.azure,MIT,https://opensource.org/license/mit/
+Java,Spring Cloud Netflix Archaius,2.1.0.RELEASE,org.springframework.cloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Cloud Netflix Hystrix,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,Spring Cloud Netflix Zuul,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,Spring Cloud Starter Netflix Archaius,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,Spring Cloud Starter Netflix Hystrix,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,Spring Cloud Starter Netflix Ribbon,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,Spring Cloud Starter Netflix Zuul,2.1.0.RELEASE,org.springframework.cloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Commons Logging Bridge,5.3.23,org.springframework,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Context Support,5.3.23,org.bedework.deploy,Apache License Version 2.0,
+Java,Spring Context,5.3.23,spring,Unknown,
+Java,Spring Core,5.3.23,spring,Unknown,
+Java,Spring Data Core,2.6.9,org.springframework.data,Unknown,
+Java,Spring Data JPA,2.6.9,org.beamfoundry.bundles.spring-data-jpa,Unknown,
+Java,Spring Data KeyValue,2.6.9,org.springframework.data,Unknown,
+Java,Spring Data Redis,2.6.9,com.rainingsince,Unknown,
+Java,Spring Expression Language (SpEL),5.3.23,org.springframework,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring HATEOAS,1.5.2,org.springframework.hateoas,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring JDBC,5.3.23,com.github.jdbc-bare,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Messaging,5.3.23,com.azure.spring,MIT,https://opensource.org/license/mit/
+Java,Spring Object/Relational Mapping,5.3.23,org.springframework,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Object/XML Marshalling,5.3.23,org.bedework.deploy,Apache License Version 2.0,
+Java,Spring Plugin - Core,2.0.0.RELEASE,org.springframework.plugin,Unknown,
+Java,Spring Plugin - Metadata Extension,1.2.0.RELEASE,org.mule.modules,Unknown,
+Java,Spring TestContext Framework,5.2.8.RELEASE,org.springframework,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Transaction,5.3.23,com.githup.liuyanggithup,GPL-3.0,https://www.gnu.org/licenses/lgpl-3.0.en.html
+Java,Spring Web MVC,5.3.23,com.nike.backstopper,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Spring Web,5.3.23,spring,Unknown,
+Java,Spring WebSocket,5.3.23,com.github.thierrysquirrel,Unknown,
+Java,spring-boot,2.7.6,org.coldis.library,Unknown,
+Java,spring-boot-actuator,2.7.6,org.juhewu,Unknown,
+Java,spring-boot-actuator-autoconfigure,2.7.6,org.springframework.boot,Unknown,
+Java,spring-boot-autoconfigure,2.7.6,top.wu2020,Unknown,
+Java,spring-boot-configuration-processor,2.7.6,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-devtools,2.3.2.RELEASE,org.springframework.boot,Unknown,
+Java,spring-boot-starter,2.7.6,com.mayhoo,Unknown,
+Java,spring-boot-starter-actuator,2.7.6,org.flowable,Unknown,
+Java,spring-boot-starter-aop,2.7.6,org.springframework.boot,Unknown,
+Java,spring-boot-starter-cache,2.7.6,org.springframework.boot,Unknown,
+Java,spring-boot-starter-data-jpa,2.7.6,io.kwy.boot,Unknown,
+Java,spring-boot-starter-data-redis,2.7.6,com.github.AnonymousMister,Unknown,
+Java,spring-boot-starter-hateoas,2.7.6,org.springframework.boot,Unknown,
+Java,spring-boot-starter-jdbc,2.7.6,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-starter-jersey,2.3.2.RELEASE,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-starter-json,2.7.6,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-starter-logging,2.7.6,icu.easyj.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-starter-quartz,2.7.6,org.springframework.boot,Unknown,
+Java,spring-boot-starter-test,2.3.2.RELEASE,io.gitee.ordinarykai,Unknown,
+Java,spring-boot-starter-tomcat,2.7.6,org.springframework.boot,Unknown,
+Java,spring-boot-starter-validation,2.3.2.RELEASE,org.wildfly.swarm,Unknown,
+Java,spring-boot-starter-web,2.7.6,icu.easyj.boot,Unknown,
+Java,spring-boot-starter-websocket,2.7.6,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-test,2.3.2.RELEASE,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-boot-test-autoconfigure,2.3.2.RELEASE,org.springframework.boot,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-cloud-gateway-mvc,3.1.4,org.springframework.cloud,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-cloud-netflix-ribbon,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,spring-cloud-starter,2.1.0.RELEASE,org.springframework.cloud,Unknown,
+Java,springfox-core,2.9.2,cn.aradin,Unknown,
+Java,springfox-schema,2.9.2,org.thingsboard,Unknown,
+Java,springfox-spi,2.9.2,cn.aradin,Unknown,
+Java,springfox-spring-web,2.9.2,cn.aradin,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,springfox-swagger2,2.9.2,cn.aradin,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,springfox-swagger-common,2.9.2,cn.aradin,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,springfox-swagger-ui,2.9.2,com.github.onsoul,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-security-crypto,5.3.3.RELEASE,org.springframework.security,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,spring-security-rsa,1.0.7.RELEASE,org.springframework.security,Unknown,
+Java,Spymemcached,2.12.3,kr.pe.kwonnam.spymemcached-extra-transcoders,Unknown,
+Java,sqlline,1.3.0,sqlline,Unknown,
+Java,sslext,1.2-0,sslext,Unknown,
+Java,StAX API,1.0.1,stax,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,StAX,1.2.0,stax,StAX,
+Java,Stax2 API,4.2.1,stax,Unknown,
+Java,Struts Core,1.3.8,org.apache.struts,Unknown,
+Java,Struts Taglib,1.3.8,slide,Unknown,
+Java,Struts Tiles,1.3.8,struts,Unknown,
+Java,swagger-annotations,1.5.20,io.swagger.core.v3,Unknown,
+Java,swagger-models,1.5.20,io.swagger.core.v3,Unknown,
+Java,tablesaw-core,0.38.1,tech.tablesaw,Unknown,
+Java,tablesaw-json,0.38.1,tech.tablesaw,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,TagSoup,1.2.1,tagsoup,Unknown,
+Java,T-Digest,3.2,com.tdunning,Unknown,
+Java,Tephra API,0.6.0,org.apache.tephra,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,Tephra Core,0.6.0,org.apache.tephra,Unknown,
+Java,Tephra HBase 1.0 Compatibility,0.6.0,org.apache.tephra,Unknown,
+Java,testng,6.14.3,com.thegoate,Unknown,
+Java,TestNG,6.8,org.testng,Unknown,
+Java,The Netty Project,3.7.0.Final,kr.jclab.mux,Unknown,
+Java,ThreeTen backport,1.3.3,org.threeten,BSD-3-Clause,https://opensource.org/license/bsd-3-clause/
+Java,tomcat-embed-core,9.0.69,io.github.crac.org.apache.tomcat.embed,Unknown,
+Java,tomcat-embed-el,9.0.69,org.apache.tomcat.embed,Unknown,
+Java,tomcat-embed-websocket,9.0.69,org.ops4j.pax.tipi,Unknown,
+Java,transaction-api,1.1,javax.transaction,Unknown,
+Java,tritonus-share,0.3.7-1,com.googlecode.soundlibs,Unknown,
+Java,TXW2 Runtime,2.3.7,org.glassfish.jaxb,Unknown,
+Java,UnboundID LDAP SDK for Java,6.0.6,com.unboundid,Unknown,
+Java,univocity-parsers,2.8.4,org.apache.camel.quarkus,Unknown,
+Java,Validator,1.3.1,io.github.ApamateSoft,MIT,https://opensource.org/license/mit/
+Java,VelocityTools,2,velocity-tools,Unknown,
+Java,Woodstox,6.2.1,woodstox,Unknown,
+Java,Xalan Java Serializer,2.7.2,dev.vality.geck,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,Xalan Java,2.7.2,com.ellucian.xalan,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0
+Java,XML Commons External Components XML APIs Extensions,1.3.04,org.wso2.orbit.xml-apis,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,XML Commons External Components XML APIs,1.4.01,org.lucee,Unknown,
+Java,Xml Compatibility extensions for Jackson,1.8.3,org.kie.modules,Unknown,
+Java,XmlBeans,4.0.0,xmlbeans,Unknown,
+Java,xmlenc Library,0.52,xmlenc,Unknown,
+Java,xml-path,3.3.0,io.rest-assured,Apache-2.0,https://opensource.org/license/apache-2-0/
+Java,XMLSecTool,3.0.0,,Unknown,
+Java,xpp3,1.1.3.3,org.codelibs,Unknown,
+Java,XZ for Java,1,com.fpliu.ndk.pkg.prefab.android.21,Unknown,
+Java,Zipkin Core Library,2.23.2,io.zipkin.zipkin2,Unknown,
+Java,Zipkin Reporter Brave,2.16.3,io.zipkin.reporter2,Unknown,
+Java,Zipkin Reporter: Core,2.16.3,io.smartup.zipkin,Unknown,
+Java,zookeeper,3.4.6,com.weicoder,Unknown,
+Java,zstd-jni,1.5.0-1,com.guicedee.services,GPL 3,https://opensource.org/license/gpl-3-0/
+Java,zuul-core,1.3.1,com.netflix.zuul,Apache-2.0,https://www.apache.org/licenses/LICENSE-2.0

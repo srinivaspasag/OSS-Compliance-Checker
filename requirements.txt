@@ -1,0 +1,7 @@
+pandas
+flask
+csv_reader
+requests
+black 
+urllib3==1.26.7
+bs4
